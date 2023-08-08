@@ -1,6 +1,6 @@
 ---
 name: David Rauchwerk
-role: Large Language Model, Machine Learning, AI Consultant
+role: Large Language Model
 email: drauchwerk@gmail.com
 website: https://kevinl.info
 photo: kevin.jpg
