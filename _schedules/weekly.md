@@ -34,6 +34,15 @@ schedule:
         end: 2:00 PM
         location: 271 Soda
   - name: Tuesday
+    events:
+      - name: LBL session
+        start: 9:30 AM
+        end: 11:00 AM
+        location: LBL 50A
+      - name: Lecture/Workshop
+        start: 1:00 PM
+        end: 4:30 PM
+        location: 431 Davis Hall
   - name: Wednesday
     events:
       - name: Lecture
