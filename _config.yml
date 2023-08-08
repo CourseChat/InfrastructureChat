@@ -13,16 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
+title: InfrastructureChat
+tagline: Adding AI and LLM to Engineering Operations
+description: At the cutting edge of AI and ML applied to Civil and Environmental Engineering
+author: Dave Rauchwerk
 baseurl: '/InfrastructureChat'
 url: 'https://johngage.github.io'
 #baseurl: '' # the subpath of your site, e.g. /blog
-#url: 'https://johngage.github.io/InfrastructureChat/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.4
 color_scheme: light
