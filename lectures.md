@@ -16,26 +16,17 @@
 - [Lecture Six](./lecture/lec6.md)
 - [Lecture Seven](./lecture/lec07.md)
 - [Lecture Eight](./lecture/lec08.md)
+- [Lecture Nine](./lecture/lec09.md)
+- [Lecture Ten](lecture/lec10.md)
 
 
 
 
 
+[Lecture Ten+](lecture/SRG-Session.10.5-June30-Fri.md)
+
+[Lecture Ten+](lecture/SRG-Session.10.5-June30-Fri.md)
 
 
-
-
-
-[Lecture Ten](lecture/lec10.md)
-
-
-
-
-
-[Lecture Ten](lecture/SRG-Session.10.5-June30-Fri.md)
-
-[Lecture Ten](lecture/SRG-Session.10.5-June30-Fri.md)
-
-
-
+[How to build a Bill of Materials](../lecture/lec1)
 
