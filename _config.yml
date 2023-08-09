@@ -41,6 +41,8 @@ collections:
   modules:
   schedules:
   announcements:
+  external-images:
+    output: true
 # Default layouts for each collection type
 defaults:
   - scope:
