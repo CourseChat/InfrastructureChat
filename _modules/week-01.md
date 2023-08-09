@@ -3,7 +3,7 @@ title: Introduction to Large Language Models-- PipeChat
 ---
 
 June 21-Wed morning
-: [Python & Git](#)
+: [FirstGo](lecture/lec01)
   : [1.1](#)
 
 June 21- Wednesday afternoon
