@@ -3,16 +3,19 @@
 ## Test of link references
 
 
-[Lecture One](lecture/lec01.md)
+- [Lecture One](lecture/lec01.md)
 
-[Lecture Two](./lecture/lec02.md)
+- [Lecture Two](./lecture/lec02.md)
 
-[Lecture Three](./lecture/lec03.md)
-[Lecture Four](./lecture/lec04.md)
-[Lecture Five](./lecture/lec05.md)
-[Lecture Six](./lecture/lec6.md)
-[Lecture Seven](./lecture/lec07.md)
-[Lecture Eight](./lecture/lec08.md)
+- [Lecture Three](./lecture/lec03.md)
+
+- [Lecture Four](./lecture/lec04.md)
+
+- [Lecture Five](./lecture/lec05.md)
+
+- [Lecture Six](./lecture/lec6.md)
+- [Lecture Seven](./lecture/lec07.md)
+- [Lecture Eight](./lecture/lec08.md)
 
 
 
