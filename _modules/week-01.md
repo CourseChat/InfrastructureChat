@@ -1,13 +1,13 @@
 ---
-title: Introduction to Java
+title: Introduction to Large Language Models-- PipeChat
 ---
 
-Sep 28
-: [Java & Git](#)
+June 28
+: [Python & Git](#)
   : [1.1](#)
 
 Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
+: **Section**{: .label .label-purple }[Intro to Embedding](#)
   : [Solution](#)
 
 Sep 30
