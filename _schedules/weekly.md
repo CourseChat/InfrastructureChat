@@ -21,18 +21,18 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
+      - name: Home Preparation
         start: 9:30 AM
         end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
+        location: Home
+      - name: Group work
         start: 11:30 AM
         end: 12:30 PM
-        location: 310 Soda
+        location: 315 Davis Hall
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: 271 Soda
+        location: 424 Davis Hall
   - name: Tuesday
     events:
       - name: LBL session
@@ -45,22 +45,35 @@ schedule:
         location: 431 Davis Hall
   - name: Wednesday
     events:
-      - name: Lecture
+      - name: Lecture/Workshop
         start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
+        end: 12:00 AM
+        location: 424 Davis
       - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
+        start: 1:30 PM
+        end: 4:30 PM
+        location: 424 Davis
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
+        start: 12:00 PM
+        end: 1:00 PM
         location: 271 Soda
   - name: Thursday
+    events:
+      - name: Lecture/Workshop
+        start: 9:30 AM
+        end: 12:00 AM
+        location: 424 Davis
+      - name: Section
+        start: 1:30 PM
+        end: 4:30 PM
+        location: 424 Davis
+      - name: Office Hours
+        start: 12:00 PM
+        end: 1:00 PM
+        location: 424 Davis
   - name: Friday
     events:
-      - name: Lecture
+      - name: Site Visit
         start: 9:30 AM
         end: 10:30 AM
         location: 150 Wheeler
