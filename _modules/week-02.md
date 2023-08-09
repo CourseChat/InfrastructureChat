@@ -1,6 +1,9 @@
 ---
 title: Unstructured Data
+layout: page
+nav_exclude: true
 ---
+
 [Discussion of DB](lecture/SRG-Session.10.5-June30-Fri
 
 Oct 5
