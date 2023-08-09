@@ -1,6 +1,7 @@
 ---
-aliases: 
-publish:
+layout: page
+title: Lecture 10 – Raman Spectroscopy; OCR PipeChat
+nav_exclude: true
 ---
 
 %%
