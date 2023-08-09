@@ -1,6 +1,6 @@
 ---
 name: Shih-Hung Chiu
-role: Teaching Assistant
+role: Instructor
 email: shchiu@berkeley.edu
 website: https://eric-shchiu.github.io/
 photo: shih-hung.jpg
