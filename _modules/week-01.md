@@ -7,7 +7,7 @@ June 21-Wed morning
   : [1.1](#)
 
 June 21- Wednesday afternoon
-: **Section**{: .label .label-purple }[Intro to Embedding](#)
+: **Section**{: .label .label-purple }[Intro to Embedding](./lecture/lec10)
   : [Solution](#)
 
 June 22
