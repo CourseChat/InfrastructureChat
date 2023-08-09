@@ -1,5 +1,5 @@
 ---
-title: Basic Data Structures
+title: Extended Object Embedding
 ---
 
 Oct 5
