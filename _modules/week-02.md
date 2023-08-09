@@ -1,7 +1,5 @@
 ---
 title: Unstructured Data
-layout: page
-nav_exclude: true
 ---
 
 June 30
