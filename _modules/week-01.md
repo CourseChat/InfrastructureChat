@@ -2,19 +2,19 @@
 title: Introduction to Large Language Models-- PipeChat
 ---
 
-June 28
+June 21-Wed morning
 : [Python & Git](#)
   : [1.1](#)
 
-Sep 29
+June 21- Wednesday afternoon
 : **Section**{: .label .label-purple }[Intro to Embedding](#)
   : [Solution](#)
 
-Sep 30
+June 22
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
 
-Oct 1
+June 22
 : **Lab**{: .label .label-purple } [Intro to Java](#)
 
 Oct 2
