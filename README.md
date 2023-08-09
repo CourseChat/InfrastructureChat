@@ -8,9 +8,12 @@ seo:
   name: Civil Engineering and AI
 ---
 
-# Welcome to Infrastructure
+# Welcome to Civil Infrastructure Aided by Large Language Models, Machine Learning, and Interactive Chat
+## Query Every Aspect of Critical Infrastructure
+### How does it work? How secure is it? Compare real-time status to historical records.
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+## Build a Critical, Validated Query Environment for Real Civil Infrastructure
+### Evaluate and Correct Today's CyberPhysical Lack of Security and Validation
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
