@@ -1,4 +1,6 @@
 ---
+layout: home
+title: Session One
 tags: [srg, class, session]
 aliases: 
 publish:
