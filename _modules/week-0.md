@@ -10,7 +10,7 @@ Jun 22
 : **Homework 1B**{: .label .label-hw } [Prerequisite Math](https://drive.google.com/file/d/1yWakQTRRdyA-etJG-nwptXmECnO2phLC/view?usp=share_link){:target="_blank"} (due Jun 26)
 
 Jun 22
-: **Lecture 2**{: .label .label-lecture } [GPT-4 I](lecture/lec02)
+: **Lecture 2**{: .label .label-lecture } [GPT-4 I](./lecture/lec02)
     : [Note 2](https://ds100.org/course-notes-su23/pandas_1/pandas_1.html)
 : **Discussion 1**{: .label .label-disc } [Math Prerequisites](https://drive.google.com/file/d/1vOVxBK1Lr1tQ2V_V2aYqdTAXIllRTicD/view?usp=sharing)
     : [Solution](https://drive.google.com/file/d/17WuF16jEFQyl8mRv0il7MjSyQ9RDDgPN/view?usp=sharing)
