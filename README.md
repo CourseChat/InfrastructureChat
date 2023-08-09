@@ -34,7 +34,9 @@ seo:
 
 ## Getting Started
 
-
+[Link button](lectures.md){: .btn .btn-purple }
+[Link button](http://example.com/){: .btn .btn-blue }
+[Link button](http://example.com/){: .btn .btn-green }
 ### Local development environment
 
 Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
