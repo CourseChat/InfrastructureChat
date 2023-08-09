@@ -1,6 +1,7 @@
 ---
-title: Extended Object Embedding
+title: Unstructured Data
 ---
+[Discussion of DB](lecture/SRG-Session.10.5-June30-Fri
 
 Oct 5
 : [Linked Lists & Encapsulation](#)
