@@ -56,7 +56,7 @@ schedule:
       - name: Office Hours
         start: 12:00 PM
         end: 1:00 PM
-        location: 271 Soda
+        location: 424 Davis
   - name: Thursday
     events:
       - name: Lecture/Workshop
@@ -77,12 +77,12 @@ schedule:
         start: 9:30 AM
         end: 10:30 AM
         location: 150 Wheeler
-      - name: Section
+      - name: Section Review
         start: 11:30 AM
         end: 12:30 PM
-        location: 310 Soda
+        location: 305 Daavis Soda
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: 271 Soda
+        location: 305 Davis
 ---
