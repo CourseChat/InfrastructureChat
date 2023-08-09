@@ -14,7 +14,7 @@ parent::
 2023-06-21 Wed morning
 # Summary
 
-Video starts nine minutes into initial demo of using GPT-4 to create a variety of questions.
+Video starts nine minutes into initial demo of using GPT-4 to create a variety of questions, and generate their answers from the body of the text.
 
 - First session. Introduce SRG, CSI and interns to basic tools
 	- github; linux and linux shell commands; OpenAI, GPT-4, and GPT-4 playground; structured and unstructured data; CPU and GPU; NVIDIA GPU; open source Large Language Models
