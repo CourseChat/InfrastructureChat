@@ -8,19 +8,24 @@ seo:
   name: Civil Engineering and AI
 ---
 
+Large Language Models, generative query interfaces, and specialized information retrieval based on large repositories of specialized documents are redefining how people and organizations solve problems, interact with knowedge, and understand the objects and relationships that create their world. This exploratory class bridges between Machine Learning, generative language models, and the engineering disciplines created to understand how things work. In this class, we explore key areas of question formulation, data collection and cleaning, visualization, predictive modeling, and decision making.​  We explore the hardware and software environments that have made OpenAI, GPT-4, Galactica, Langchain, and a multitude of emerging tools and services so transformative.
+
 # Welcome to PipeChat, the application of Large Language Models, Machine Learning, and Interactive Chat to Civil Engineering and Infrastructure
 ## Goal: Develop A Real-Time Query Environment for Every Aspect of Critical Infrastructure
 - Build a Digital Twin from instrumentation, sensors, construction and maintenance records, operational and inspection data, and  phyDsics, chemistry, and biological models.
 - Create a body of queries designed to validate responses and analyses performed on the digital twins
 - Enable a conversational interaction between engineers, citizens, and elements of physical and cyber systems.
 
-## Build a Critical, Validated Query Environment for Civil Infrastructure
-  - Power
-  - Water
-  - Waste Water
-  - Buildings
+## Build a Critical, Validated Query Environment for Critical Civil Infrastructure
+  - Power Systems
+  - Water Systems
+  - Waste Water Systems
+  - Geotechnical Sustems
+  - Building and Structural Systems
+  - Educational Systems
+  - Monitoring and Evaluation Systems
   - Cyber and cyberphysical systems
-### Evaluate and Correct Today's CyberPhysical Systems Lack of Security and Validation
+### Evaluate and Correct Today's CyberPhysical Systems Critical Lack of Security and Validation
 - Develop probes, real-time evaluations, and role-based simulations of complex interactions
 
 - [announcements](announcements.md),
