@@ -1,9 +1,9 @@
 ---
-name: Da-Hui
+name: Shih-Hung Chiu
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: shchiu@berkeley.edu
+website: https://eric-shchiu.github.io/
+photo: shih-hung.jpg
 ---
 
-New person
+Master Tutor
