@@ -1,6 +1,12 @@
+---
+layout: page
+title: Session.22-July 18-Tuesday aft
+nav_exclude: true
+---
+
 Tuesday, July 18-  Afternoon
 Davis Hall
-1pm; Arrival of new video equipment: Rode microphone for interviews
+1pm; Arrival of new video equipment for interviews at CSI: Rode microphone for interviews
 
 And DR will make PipeChat begin to work again, using GPT-4 queries. We should use a different channel for experiments, so not to overwhelm this channel. 
 
