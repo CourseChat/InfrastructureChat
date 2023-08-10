@@ -1,9 +1,11 @@
 ---
-name: Shih-Hung
+name: Emily Zhang
 role: Teaching Assistant
-email: me@example.com
+email: zhangqinglai0120@berkeley.edu
 website: https://kevinl.info
-photo: kevin.jpg
+photo: {% for image in site.external_images %}
+  <img src="{{ image.image_url }}" alt="Image">
+{% endfor %}
 ---
 
-Change first time.
+Emily
