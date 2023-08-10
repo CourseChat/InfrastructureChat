@@ -2,7 +2,7 @@
 layout: page
 title: New Center for Smart Infrastructure Development Website
 nav_exclude: true
----- 
+---
 
 - We built this website in in Session 13: July 6 [[SRG-Session.13-July6-Thursday-aft-DR]]
 - We bought a domain name, then provisioned the web site on a global provider: 
