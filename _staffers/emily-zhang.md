@@ -7,7 +7,7 @@ photo: Emily-1024x1024.jpg
 ---
 #{% assign external_image = site.external-images | where: "title", "Emily Zhang" | first %}
 #{% if external_image %}
- # <img src="{{ external_image.image_url }}" alt="{{ external_image.title }}">
+#<img src="{{ external_image.image_url }}" alt="{{ external_image.title }}">
 #{% endif %}
 
 Emily
