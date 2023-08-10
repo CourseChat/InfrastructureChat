@@ -1,7 +1,9 @@
 # Lectures
 - with several kinds of content for Infrastructure Chat: vector embedding
-![List of Summer 2023 Lectures](../lectures)
-## Test of link references
+
+![List of Summer 2023 Lectures](../lecture)
+
+## Direct Links
 
 
 - [Lecture One](lecture/lec01.md)
