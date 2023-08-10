@@ -7,3 +7,4 @@ photo: Kenichi-Soga.jpeg
 ---
 https://eesa.lbl.gov/profiles/kenichi-soga/
 Member National Academy of Engineering
+[Schedule an appointment](#){: .btn .btn-outline }
