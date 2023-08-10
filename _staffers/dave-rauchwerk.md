@@ -7,6 +7,8 @@ photo:
 meta:
  Office Hours: on the internet
 ---
+[Schedule an appointment](#){: .btn .btn-outline }
 
-Learn to rent supercomputers by the minute; or build your own Nvidia cluster: 
-- Large Language Models
+How to rent supercomputers by the minute, build your own Nvidia cluster:
+then create vector embeddings of your work, and create a PipeChat.
+- Large Language Models testing for validity
