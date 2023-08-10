@@ -1,5 +1,6 @@
 # Lectures
 - with several kinds of content for Infrastructure Chat: vector embedding
+![List of Summer 2023 Lectures](../lectures)
 ## Test of link references
 
 
