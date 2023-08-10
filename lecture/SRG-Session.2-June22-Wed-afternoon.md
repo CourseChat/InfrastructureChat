@@ -1,12 +1,8 @@
 ---
-aliases: 
-publish:
+layout: page
+title: Session.2-June22-Wed-afternoon
+nav_exclude: true
 ---
-
-%%
-date:: 2023-07-09 Sunday
-parent::
-%%
 
 # Session 2
 2023-06-21 Wed  aft      
