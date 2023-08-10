@@ -2,7 +2,7 @@
 name: Shih-Hung Chiu
 role: Instructor
 email: shchiu@berkeley.edu
-website: https://eric-shchiu.github.io/
+website: https://geomechanics.berkeley.edu/people/shih-hung-chiu/
 photo: shih-hung.jpg
 ---
 
