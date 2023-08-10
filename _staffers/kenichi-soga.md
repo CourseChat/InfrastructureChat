@@ -1,9 +1,9 @@
 ---
 name: Kenichi Soga
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: soga@berkeley.edu
+website:  https://ce.berkeley.edu/people/faculty/soga
 photo: Kenichi-Soga.jpeg
 ---
-
+https://eesa.lbl.gov/profiles/kenichi-soga/
 Member National Academy of Engineering
