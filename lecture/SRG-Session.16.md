@@ -1,3 +1,8 @@
+---
+layout: page
+title: Session.16
+nav_exclude: true
+---
 July 11, Tuesday afternoon
 Davis Hall 305
 
