@@ -1,3 +1,3 @@
 ---
-
+email: cgeudeker@berkeley.edu
 ---
