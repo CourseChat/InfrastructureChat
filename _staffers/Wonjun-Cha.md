@@ -1,7 +1,7 @@
 ---
-name: Won-Jun-Cha
+name: Dr. Won-Jun-Cha
 role: Instructor
 email: wonjun.cha@berkeley.edu
-website: https://kevinl.info
+website: 
 photo: wonjun_1-215x300.png
 ---
