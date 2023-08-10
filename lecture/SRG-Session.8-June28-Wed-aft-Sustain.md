@@ -1,12 +1,8 @@
 ---
-aliases: 
-publish:
+layout: page
+title: Session.8-June28-Wed-aft-Sustain
+nav_exclude: true
 ---
-
-%%
-date:: 2023-07-10 Monday
-parent::
-%%
 
 SRG-Session.8
 | 8              | 2023-06-28  W  aft     Examine UCB sustainability data ; visit Warren Hall to meet w/ Sustainability Office                                                                                                                                                           missing video     Sustainability ; zoom video  exists of meeting          
