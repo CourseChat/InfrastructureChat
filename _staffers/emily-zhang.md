@@ -5,9 +5,9 @@ email: zhangqinglai0120@berkeley.edu
 website: https://kevinl.info
 photo: 
 ---
-#../external_images/emily-zhang.image.image_url 
-
-{% assign image = site.external_images | first %}
-<img src="{{ image.image_url }}" alt="Image">
+{% assign external_image = site.external-images | where: "title", "Emily Zhang" | first %}
+{% if external_image %}
+  <img src="{{ external_image.image_url }}" alt="{{ external_image.title }}">
+{% endif %}
 
 Emily
