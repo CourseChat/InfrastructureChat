@@ -1,5 +1,5 @@
 ---
-title: Week 0
+title: Day One
 ---
 
 Jun 21
