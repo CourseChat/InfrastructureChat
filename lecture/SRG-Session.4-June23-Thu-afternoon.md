@@ -1,13 +1,8 @@
 ---
-aliases: 
-publish:
+layout: page
+title: Session.4-June23-Thu-afternoon
+nav_exclude: true
 ---
-
-%%
-date:: 2023-07-10 Monday
-parent::
-%%
-
 SRG-Session.4
 # Session
  4   2023-06-22 Th  aft   
