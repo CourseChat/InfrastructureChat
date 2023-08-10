@@ -25,7 +25,7 @@ seo:
   - Educational Systems
   - Monitoring and Evaluation Systems
   - Cyber and cyberphysical systems
-### Evaluate and Correct Today's CyberPhysical Systems Critical Lack of Security and Validation
+### Evaluate and Correct The Critical Lack of Security and Validation at Utility Companies
 - Develop probes, real-time evaluations, and role-based simulations of complex interactions
 
 - [announcements](announcements.md),
