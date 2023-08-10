@@ -3,7 +3,7 @@ name: Daven Rauchwerk
 role: Instructor
 email: drauchwerk@gmail.com
 website: 
-photo: 
+photo: DavenRauchwerk.jpg
 meta:
  Office Hours: on the internet
 ---
