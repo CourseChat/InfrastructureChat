@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Lecture 1 – Course Overview
+title: Session 1 -- Why LLM's Change Engineering
 nav_exclude: true
 ---
-
-# Summary
+# A Quick Short Course on Building Large Language Models for Civil Engineering
+- This exploratory series of 25 working sessions ranges over the newest developments by OpenAI, Google, Meta,and the most advanced researchers in ML, AI, and Chat
+- 
+## Summary of first session
 - 2023-06-21 Wednesday morning
 - first class meeting: 7th floor, Davis Hall
 - Professor Kenichi Soga
