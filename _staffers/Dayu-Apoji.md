@@ -1,5 +1,5 @@
 ---
-name: Dayu-Apoji
+name: Dr. Dayu Apoji
 role: Instructor
 email: dayu.apoji@berkeley.edu
 website: 
