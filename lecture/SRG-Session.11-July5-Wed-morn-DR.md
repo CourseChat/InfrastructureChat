@@ -1,12 +1,8 @@
 ---
-aliases: 
-publish:
+layout: page
+title: Session.11-July5-Wed-morn
+nav_exclude: true
 ---
-
-%%
-date:: 2023-07-10 Monday
-parent::
-%%
 
 SRG-Session.11
 | 11             | 2023-07-05 Wed morn     
