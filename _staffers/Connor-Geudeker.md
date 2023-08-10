@@ -2,6 +2,6 @@
 name: Connor Geudeker
 role: Teaching Assistant
 website: https://kevinl.info
-photo: Emily-1024x1024.jpg
+photo: connor.png
 email: cgeudeker@berkeley.edu
 ---
