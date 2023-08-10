@@ -1,3 +1,9 @@
+---
+layout: page
+title: Session.20
+nav_exclude: true
+---
+
 Thursday afternoon, July 13
 Davis Hall
 
