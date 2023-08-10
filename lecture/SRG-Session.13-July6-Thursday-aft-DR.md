@@ -1,12 +1,9 @@
 ---
-aliases: 
-publish:
+layout: page
+title: Session.13-July6-Thursday-aft
+nav_exclude: true
 ---
 
-%%
-date:: 2023-07-10 Monday
-parent::
-%%
 # Rebuild PC's from scratch to install latest version of Linux; Build new CSI website; buy domain; publish
 ## Buy  global domain for CSI  website to hold all projects
 - Multiple attempts to wipe PC's in room 305 Davis;
