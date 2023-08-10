@@ -14,12 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: InfrastructureChat
-tagline: Adding AI and LLM to Engineering Operations
-description: At the cutting edge of AI and ML applied to Civil and Environmental Engineering
-author: Dave Rauchwerk
-baseurl: '/InfrastructureChat'
+tagline: Adding AI and LLM to Science and Engineering
+description: AI and ML applied to Civil and Environmental Engineering
+author: Dave Rauchwerk, John Gage
+baseurl: '/InfrastructureChat' #baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://johngage.github.io'
-#baseurl: '' # the subpath of your site, e.g. /blog
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.4
@@ -42,6 +41,7 @@ collections:
   schedules:
   announcements:
   external-images:
+  lecture:
     output: true
 # Default layouts for each collection type
 defaults:
