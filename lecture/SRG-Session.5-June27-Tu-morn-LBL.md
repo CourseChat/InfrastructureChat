@@ -1,12 +1,8 @@
 ---
-aliases: 
-publish:
+layout: page
+title: Session.5-June27-Tu-morn-LBL
+nav_exclude: true
 ---
-
-%%
-date:: 2023-07-10 Monday
-parent::
-%%
 
 SRG-Session.5
 
