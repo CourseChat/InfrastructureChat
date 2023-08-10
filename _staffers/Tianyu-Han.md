@@ -1,6 +1,7 @@
 ---
 name: Tianyu Han
-email: tyhan@berkeley.edu
 role: Teaching Assistant
+email: tyhan@berkeley.edu
+website:
 photo: TianyuHan.jpeg
 ---
