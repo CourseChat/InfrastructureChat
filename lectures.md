@@ -1,4 +1,4 @@
-# Interactve sessions
+# Interactive sessions
 - with several kinds of content for Infrastructure Chat: vector embedding
 
 ## Direct Links
