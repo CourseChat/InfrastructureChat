@@ -26,5 +26,5 @@
 
 
 
-[Test One+](lecture/ses01-ju21wam)
+[Test One+](_lecture/ses01-ju21wam)
 
