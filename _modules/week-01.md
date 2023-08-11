@@ -1,8 +1,8 @@
 ---
 title: Week 2 - 26-30 June
 ---
-26 June- Monday- work at home
-
+June 26
+:**Work at Home**
 June 27
 :**Session 5**{: .label .label-lecture } [Morning](../_lecture/ses5-June27-Tu-morn-LBL.md)
   : [1.1](#)
