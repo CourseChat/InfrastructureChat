@@ -1,24 +1,26 @@
-# Lectures
+# Lectures are really interactive exploratory sessions
 - with several kinds of content for Infrastructure Chat: vector embedding
 
 ## Direct Links
-Trying collection entry in yaml.
 
-- [Lecture One](_lecture/ses10ju29thpm.md)
+- [Session One](_lecture/ses01-ju21wam.md)
 
-- [Lecture Two](_lecture/ses10ju29thpm)
+- [Session Two](_lecture/ses2-ju21wpm.md)
 
-- [Lecture Three](lecture/ses10ju29thpm.md)
+- [Session Three](_lecture/ses3-ju22tham.md)
 
-- [Lecture Four](_lecture/ses10ju29thpm)
+- [Session Four](_lecture/ses4ju22thpm.md)
 
-- [Lecture Five](./lecture/lec05.md)
+- [Session Five](_lecture/ses5-June27-Tu-morn-LBL.md)
 
-- [Lecture Six](_lecture/ses10ju29thpm.md)
-- [Lecture Seven](./lecture/lec07.md)
-- [Lecture Eight](./lecture/lec08.md)
-- [Lecture Nine](./lecture/lec09.md)
-- [Lecture Ten](lecture/lec10.md)
+- [Session Six](_lecture/ses6-June27-Tu-aft-DT.md)
+- [Session Seven](_lecture/ses7-Ju28Wam-CSI.md)
+- [Session Eight](_lecture/ses8-Ju28wpmS.md)
+- [Session Nine](_lecture/ses9-Ju29Tham.md)
+- [Session Ten](_lecture/ses10ju29thpm.md)
+- [Session 11](_lecture/ses11-July5-Wed-morn-DR.md)
+- [Session 12](_lecture/ses12-July5-Wed-aft-DR.md)
+- [Session 13](_lecture/ses13-July6-Thursday-aft-DR.md)
 
 
 
