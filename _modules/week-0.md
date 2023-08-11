@@ -18,6 +18,7 @@ Jun 21
 Jun 22
 : **Session 3**{: .label .label-lecture } [OpenAI;LangChain](../lecture/SRG-Session.3-June23-Th-morning)
     : [Note 3](https://ds100.org/course-notes-su23/pandas_2/pandas_2.html)
+
 Jun 22
 : **Session 4**{: .label .label-lecture } [OpenAI;LangChain](../lecture/SRG-Session.4-June23-Thu-afternoon)
     : [Note 3](https://ds100.org/course-notes-su23/pandas_2/pandas_2.html)
