@@ -1,4 +1,4 @@
-# Lectures are really interactive exploratory sessions
+# Interactve sessions
 - with several kinds of content for Infrastructure Chat: vector embedding
 
 ## Direct Links
@@ -26,10 +26,5 @@
 
 
 
-[Lecture Ten+](lecture/SRG-Session.10.5-June30-Fri.md)
-
-[Lecture Ten+](lecture/SRG-Session.10.5-June30-Fri.md)
-
-
-[How to build a Bill of Materials](../lecture/lec1)
+[Test One+](lecture/ses01-ju21wam)
 
