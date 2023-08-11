@@ -8,7 +8,7 @@ nav_exclude: true
 SRG-Session.10
 Session 10             | 2023-06-29  Thursday aft  
 
-# Quick DR presentation on **Raman spectroscopy** for molecule species detection; handheld unit;
+# Quick DR presentation on **Raman spectroscopy** for molecular species detection; modified handheld unit;
 
 
 - **EBMUD** repair record OCR ingestion; hand entry of data from **101** **jpeg** files of paper forms; 
