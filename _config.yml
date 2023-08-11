@@ -40,9 +40,12 @@ collections:
   modules:
   schedules:
   announcements:
+    output: true
+collections:
   external-images:
   lecture:
     output: true
+    
 # Default layouts for each collection type
 defaults:
   - scope:
