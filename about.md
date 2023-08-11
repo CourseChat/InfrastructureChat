@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: >-
-    Course policies and information.
+    Guided Practice And Query Crafting
 ---
 
 # About
@@ -18,9 +18,10 @@ description: >-
 
 ## About
 
-- Look at _SRG-Sessions-List for session pages
-### Work in progress to provide quicklinks to important class sessions
-- Using github to build your own web site
+- This "Quick Course" is less a course than **guided practice** in interacting with science and engineering documents using new tools of Large Language Models [LLM], vector embeddings of questions and styles of exploration, and new, emerging techniques of validating these interactions.
+- 
+### Mixing tools and techniques in action: Quick Course Examples
+- Use github to build your own web site: Session 
 - Building context for queries to GPT-4
 - Huggingface Leaderboard as a guide to recent LLM progress
 - How to search Github for "Awesome" open source implementations
