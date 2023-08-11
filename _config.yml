@@ -40,8 +40,6 @@ collections:
   modules:
   schedules:
   announcements:
-    output: true
-collections:
   external-images:
   lecture:
     output: true
