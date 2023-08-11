@@ -25,7 +25,7 @@ July 6
   : [1.1](#)
 
 July 6
-: [Thurs Afternoon](../lecture/../lecture/SRG-Session.13-July6-Thursday-aft)
+: Session 13 {: .label .label-lecture }[Thurs Afternoon](../lecture/SRG-Session.13-July6-Thursday-aft)
   : [1.1](#)
 
 July 6
