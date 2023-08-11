@@ -4,17 +4,17 @@
 ## Direct Links
 Trying collection entry in yaml.
 
-- [Lecture One](lecture/lec01.md)
+- [Lecture One](_lecture/ses10ju29thpm.md)
 
-- [Lecture Two](./lecture/lec02.md)
+- [Lecture Two](_lecture/ses10ju29thpm)
 
-- [Lecture Three](./lecture/lec03.md)
+- [Lecture Three](lecture/ses10ju29thpm.md)
 
-- [Lecture Four](./lecture/lec04.md)
+- [Lecture Four](_lecture/ses10ju29thpm)
 
 - [Lecture Five](./lecture/lec05.md)
 
-- [Lecture Six](./lecture/lec6.md)
+- [Lecture Six](_lecture/ses10ju29thpm.md)
 - [Lecture Seven](./lecture/lec07.md)
 - [Lecture Eight](./lecture/lec08.md)
 - [Lecture Nine](./lecture/lec09.md)
