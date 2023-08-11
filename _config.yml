@@ -68,6 +68,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: lecture
+    values:
+      layout: default
 
 compress_html:
   clippings: all
