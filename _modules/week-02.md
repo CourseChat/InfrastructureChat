@@ -3,17 +3,16 @@ title: Unstructured Data
 ---
 
 June 30
-: [Discussion of DB](lecture/SRG-Session.10.5-June30-Fri)
-
+: **Explore VectorDB**{: .label .label-lecture}[Discussion of DB](lecture/ses10.5-June30f.md)
 Oct 5
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
-Oct 6
+July 5
 : **Section**{: .label .label-purple }[Linked Lists](#)
   : [Solution](#)
 
-Oct 7
+July 5
 : [Resizing Arrays](#)
   : [2.4](#), [2.5](#)
 
