@@ -1,14 +1,14 @@
 ---
 title: Week 4 - 10-14 July
 ---
-July 10-Monday-Work at Home
+: July 10-Monday-Work at Home
 
 July 11
-: [Tues Morning](../lecture/SRG-Session.14)
+: [Tues Morning](../lecture/ses14.md)
   : [1.1](#)
 
 July 11
-: **Section**{: .label .label-purple }[Intro to Embedding](./lecture/lec10)
+: **Section**{: .label .label-purple }[Intro to Embedding](../lecture/ses15.md)
   : [Solution](#)
 
 July 11
