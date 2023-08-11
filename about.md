@@ -18,7 +18,7 @@ description: >-
 
 ## About
 
-- This "Quick Course" is less a course than **guided practice** in interacting with science and engineering documents using new tools of Large Language Models [LLM], vector embeddings of questions and styles of exploration, and new, emerging techniques of validating these interactions.
+- This "Quick Course" is less a course than a **guided practice** using new tools to interact with large collections of science and engineering articles, books, and data bases. The recent emergence of Large Language Models [LLM], computational vector embeddings of questions and styles of exploration, and new, emerging techniques of validating these interactions suggest a new style of scientific and engineering research and publication.
 - 
 ### Mixing tools and techniques in action: Quick Course Examples
 - Use github to build your own web site: Session 
