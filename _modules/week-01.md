@@ -3,7 +3,7 @@ title: Week 2 - 26-30 June
 ---
 
 June 27
-: [Morning](../lecture/SRG-Session.3-June23-Th-morning.md)
+: Session 5{: .label .label-lecture }[Morning](../lecture/SRG-Session.5-June27-Tu-morning)
   : [1.1](#)
 
 June 27
