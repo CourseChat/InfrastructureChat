@@ -3,7 +3,12 @@ layout: page
 title: Session 1 -- How LLM's Change Engineering
 nav_exclude: true
 ---
-[Full text]
+- [Full text](https://drive.google.com/file/d/1-HsFgkGNIpLK2s7Eq8Gb1iLWsnBlI5TO/view?usp=sharing)
+- video: [Wednesday.Session.1](https://berkeley.zoom.us/rec/share/dZJkeP5uhb-LFbbVLuc75mD5pbt5kKlDdz1mo_X6M7C5hZImp2L_h0x-CuKR3bYX.vB4hJxf25lhIwaBb?startTime=1687368820000 )  b8.TAhkk <- copy this code for access
+
+- slides:
+- audio
+- references: 
 # A Quick Short Course on Building Large Language Models for Civil Engineering
 - This exploratory series of 25 working sessions ranges over the newest developments by OpenAI, Google, Meta,and the most advanced researchers in ML, AI, and Chat
 - 
@@ -41,5 +46,4 @@ Video starts nine minutes into initial demo of using GPT-4 to create a variety o
 
 ## Transcripts
 - vtt have timecodes
-- generate higher quality transcripts with OpenAI Whisper
-- use transcripts to build chat
+- transcripts created with OpenAI Whisper
