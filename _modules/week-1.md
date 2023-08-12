@@ -20,6 +20,6 @@ Jun 22
     : [Note 3](https://ds100.org/course-notes-su23/pandas_2/pandas_2.html)
 
 Jun 22
-: **Session 4**{: .label .label-lecture } [LangChain;Ingest text](/InfrastructureChat/lecture/ses4ju22thpm.md)
+: **Session 4**{: .label .label-lecture } [LangChain;Ingest text](/InfrastructureChat/lecture/ses4ju22thpm)
     : [Note 3](https://ds100.org/course-notes-su23/pandas_2/pandas_2.html)
 
