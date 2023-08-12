@@ -32,6 +32,7 @@ description: Quick Tour of AI
 - [Session 11](_lecture/ses11-July5-Wed-morn-DR.md)
 - [Session 12](_lecture/ses12-July5-Wed-aft-DR.md)
 - [Session 13](_lecture/ses13-July6-Thursday-aft-DR.md)
+- [Session 22](_lecture/ses22-July%2018-Tuesday%20aft.md)
 
 
 
