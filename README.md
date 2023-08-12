@@ -7,6 +7,10 @@ seo:
   type: Course
   name: Civil Engineering and AI
 ---
+# Ten quick exploratory sessions in Summer 2023 using generative language models
+- We explore the use of generative AI models for Civil Engineering
+- We use specific project challenges in five projects using the newest tools to build "chat" interfaces to scientific and engineering articles, data, and other resources
+
 
 **Large Language Models**, **generative query interfaces**, and specialized information retrieval based on large repositories of specialized documents are redefining how people and organizations solve problems, interact with knowedge, and understand the objects and relationships that create their world. This exploratory class bridges between Machine Learning, generative language models, and the engineering disciplines created to understand how things work. In this class, we explore key areas of question formulation, data collection and cleaning, visualization, predictive modeling, creation of 3D Digital Twins, and decision making.​  We explore the **hardware and software environments** that have made OpenAI, GPT-4, Galactica, Langchain, and a multitude of emerging tools and services so transformative.
 
@@ -25,8 +29,10 @@ seo:
   - Educational Systems
   - Monitoring and Evaluation Systems
   - Cyber and cyberphysical systems
-### Evaluate and Correct The Critical Lack of Security and Validation at Utility Companies
+### Evaluate and Diagnose The Critical Lack of Security and Validation in the IT environments of Utility Companies
 - Develop probes, real-time evaluations, and role-based simulations of complex interactions
+
+##### Tools at this site
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
@@ -37,7 +43,7 @@ seo:
 - instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
 - and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
 
-## Getting Started
+## links to come:
 
 [Link button](lectures.md){: .btn .btn-purple }
 [Link button](http://example.com/){: .btn .btn-blue }
