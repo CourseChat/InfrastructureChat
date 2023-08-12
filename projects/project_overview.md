@@ -33,16 +33,16 @@ description: Quick Tour of Five Implementations to test Chat architecture
     - Supercompter center cooling
     - Building efficiency
 
- ## UC Berkeley Digital Twin
+## UC Berkeley Digital Twin
  - Create complete 3D model of all aspects of UCB physical plant
- ### Build on existing UCB datasets
+### Build on existing UCB datasets
  - Energy, Power, Water, Gas, Steam
- ### Extend to full operational Chat
+### Extend to full operational Chat
 - Ingest all architectural plans, drawings, work orders, punchlists
 - Ingest all real-time data: energy, temperature, power, water, waste water, thermal flows, gas, steam
 - Ingest all operational manuals, maintenance manuals for all campus structures, assets
 - Ingest all operational plans: disaster, earthquake, flood, fire, smoke, chemical spill, radiological spill, particulate emission
-### Create compelling 3D models
+### Create compelling 3D models of all UCB: Structures, piping, power distribution, Thermal distribution
  - Can use Cesium, and a JavaScript wrapper--Terria-- for Cesium to put all UCB campus data in one place, then create 3D display. See Australian universities as example.
 - Digital Twin: geoJason: site in slack; Australian universities built pioneer visualization of digital twins, and GIS systems. Terria.github;
 - Holds other mapping engines in a container; Australia's digital twin ecosystem;
