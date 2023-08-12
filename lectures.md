@@ -1,3 +1,14 @@
+---
+layout: page
+title: Video Sessions
+description: Quick Tour of AI
+    
+---
+
+
+
+
+
 # Interactive sessions
 - with several kinds of content for Infrastructure Chat: vector embedding
 
