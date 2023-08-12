@@ -1,7 +1,10 @@
 ---
-
+layout: page
+title: Projects- tour d'horizon
+description: Quick Tour of Five Implementations to test Chat architecture
 ---
-# Testing Berkeley Chat Implementations
+
+# Five Implemntatios to test Chat architecture
 ![Overview of BSC](..assets/images/BSC Open Reference Architecture-2023-07-15.excalidraw.png)
 (../assets\/images/)
 ## Center for Smart Infrastructure
