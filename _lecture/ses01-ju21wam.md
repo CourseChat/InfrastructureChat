@@ -4,17 +4,18 @@ title: Session 1 -- How LLM's Change Engineering
 nav_exclude: true
 ---
 # Begin by watching the class video:
-## An interaction between Dave Rauchwerk, GPT-4, and civil engineering questions
-- [Full text](https://drive.google.com/file/d/1-HsFgkGNIpLK2s7Eq8Gb1iLWsnBlI5TO/view?usp=sharing)
-- video: [Wednesday.Session.1](https://berkeley.zoom.us/rec/share/dZJkeP5uhb-LFbbVLuc75mD5pbt5kKlDdz1mo_X6M7C5hZImp2L_h0x-CuKR3bYX.vB4hJxf25lhIwaBb?startTime=1687368820000 )  b8.TAhkk <- copy this code for access
-- [video streaming](https://drive.google.com/file/d/1AaQGkQgyZO8xgIFy-BdAUNhi2XdWF83r/view?usp=sharing)
+## An interaction between Dave Rauchwerk, GPT-4, Kenichi Soga, and civil engineering questions: 45 minutes
+- [Video streaming](https://drive.google.com/file/d/1AaQGkQgyZO8xgIFy-BdAUNhi2XdWF83r/view?usp=sharing)
 
-- slides:
-- audio
-- references: 
-# A Quick Short Course on Building Large Language Models for Civil Engineering
-- This exploratory series of 25 working sessions ranges over the newest developments by OpenAI, Google, Meta,and the most advanced researchers in ML, AI, and Chat
-- 
+- [Full text](https://drive.google.com/file/d/1-HsFgkGNIpLK2s7Eq8Gb1iLWsnBlI5TO/view?usp=sharing)
+This class is a mutual exploration of new technology, with a focus on engineering applications
+
+- slides: To come
+- audio: for offline listening:
+- references: the sequence of URL's presented by DR
+## A Quick Short Course on Building Large Language Models for Civil Engineering
+- This exploratory series of 25 working sessions ranges over the newest developments by OpenAI, Google, Meta,and the most advanced researchers in ML, AI, and Chat.
+- Format: live demonstrations of tools 
 ## Summary of first session
 - 2023-06-21 Wednesday morning
 - first class meeting: 7th floor, Davis Hall
@@ -24,9 +25,9 @@ nav_exclude: true
 - Center for Smart Infrastructure: researchers
 
 ## Initial demonstration of June, 2023 status of Large Language Models, GPT-4, LangChain
-Video starts nine minutes into initial demo of using GPT-4 to create a variety of questions.
+Video starts nine minutes into initial demo of interacting with GPT-4 to create new dialogs, here, showing Haiku on the subject of the history of AI and Machine Learning.
 
-- First session. Introduce SRG, CSI and interns to basic tools of machine learning, LLM, vector DB
+- First session to introduce basic tools of building models, creating query structures, using machine learning, LLM, vector DB, Github, and the ETH new question formulation technologyy.
 	- github; linux and linux shell commands; OpenAI, GPT-4, and GPT-4 playground; structured and unstructured data; CPU and GPU; NVIDIA GPU; open source Large Language Models
 - As illustration of new capabilities of Large Language Models, turn Prof. Soga's "Smart City" National Academy of Engineering paper into **SogaChat**. Have it summarize the paper, and create multiple choice quizzes on the fundamental concepts of the paper.
 - Discuss **LLM**, **open source**, **OpenAI**, and the process of bringing new text into natural language query system by **embedding** new text.  
