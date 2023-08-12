@@ -4,7 +4,7 @@ title: Week 5 - 17-21 July
 July 17-Monday-Work at Home
 
 July 18
-: [Tues Morning](../lecture/SRG-Session.14)
+: [Tues Morning](../lecture/sessLBL)
   : [1.1](#)
 
 July 18
@@ -16,7 +16,7 @@ July 18
   : [1.2](#), [2.1](#)
 
 July 18
-: [Tues Afternoon](../lecture/SRG-Session.12-July5-Wed-aft)
+: [Tues Afternoon](../lecture/ses22-July 18-Tuesday.aft)
   : [1.1](#)
 
 July 19
