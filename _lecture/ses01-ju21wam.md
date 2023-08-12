@@ -3,6 +3,8 @@ layout: page
 title: Session 1 -- How LLM's Change Engineering
 nav_exclude: true
 ---
+# Begin by watching the class video:
+## An interaction between Dave Rauchwerk, GPT-4, and civil engineering questions
 - [Full text](https://drive.google.com/file/d/1-HsFgkGNIpLK2s7Eq8Gb1iLWsnBlI5TO/view?usp=sharing)
 - video: [Wednesday.Session.1](https://berkeley.zoom.us/rec/share/dZJkeP5uhb-LFbbVLuc75mD5pbt5kKlDdz1mo_X6M7C5hZImp2L_h0x-CuKR3bYX.vB4hJxf25lhIwaBb?startTime=1687368820000 )  b8.TAhkk <- copy this code for access
 - [video streaming](https://drive.google.com/file/d/1AaQGkQgyZO8xgIFy-BdAUNhi2XdWF83r/view?usp=sharing)
