@@ -5,17 +5,19 @@ description: Quick Tour of Five Implementations to test Chat architecture
 ---
 
 # Five Implementations to test Chat architecture
-1. [Center for Smart Infrastructure](https://smartinfrastructure.berkeley.edu/) scientific reports
-2. Digital Twin of UC Berkeley campus: build 3D model
-3. East Bay Municipal Utility District: 
+1. [Center for Smart Infrastructure](https://smartinfrastructure.berkeley.edu/) scientific and engineering reports
+2. Generate complete UCB Sustainability Report for [STARS Sustainability](https://stars.aashe.org/) architecture
+
+3. Digital Twin of UC Berkeley campus: build 3D model of all assets
+
+4. [Center for Smart Infrastructure](https://smartinfrastructure.berkeley.edu/) create scientific interviews
+5. East Bay Municipal Utility District: 
     - build model of all 4,300 miles of distribution pipe system
     - ingest 20,000 paper records of pipe main repairs from historical archive
     - merge with existing relational DB pipe segment records
-4. Generate complete UCB Sustainability Report for [STARS Sustainability](https://stars.aashe.org/) architecture
-5. [Center for Smart Infrastructure](https://smartinfrastructure.berkeley.edu/) scientific interviews
 
 ![Overview of BSC](../assets/images/BSC Open Reference Architecture-2023-07-15.excalidraw.png)
-## Center for Smart Infrastructure
+## 1. Center for Smart Infrastructure
 - Ingest all CSI documents
     - Project descriptions, NSF grant applications, project reports
     - theses, scientific papers, scientific publications
@@ -27,7 +29,7 @@ description: Quick Tour of Five Implementations to test Chat architecture
 - Conduct video interviews with all staff, CSI members
     - Build workflow to ingest video, extract transcripts, ingest transcripts into CSIResearchChat
 
-## Sustainability and Resilience
+## 2. Sustainability and Resilience
 ### UC Berkeley Office of Sustainability
 - [Sustainability Dashboard](https://sustainability.berkeley.edu/engage/energy-dashboards)
 - Ingest all STARS document that form foundation of Sustainability Report
@@ -42,7 +44,7 @@ description: Quick Tour of Five Implementations to test Chat architecture
     - Supercompter center cooling
     - Building efficiency
 
-## UC Berkeley Digital Twin
+## 3. UC Berkeley Digital Twin
  - Create complete 3D model of all aspects of UCB physical plant
 ### Build on existing UCB datasets
  - Energy, Power, Water, Gas, Steam
@@ -60,3 +62,10 @@ description: Quick Tour of Five Implementations to test Chat architecture
     - Add all data in one place; then run simulation behind all the data that is georegistered; Terria.js allows you to build, as a wrapper on top of Cesium
 - Need example of how this works with ESRI; how to add each kind of data
 - Build example with ETH [Sympheny](https://www.sympheny.com/product)
+## 4. CSI Interviews
+- Conduct interviews with scientific staff
+- Build pipeline to ingest visual, audio materials into generative model
+## 5. EBMUD Asset Capture
+- Build OCR ingestion pipeline to capture 20,000 existing paper records of water main breaks over 100 years
+- Integrate new data with exising relational DB records
+- Build vector DB of operational data relating to all pipe elements, valves, pumps, tanks, air pressure regulators, meters, elevation zones
