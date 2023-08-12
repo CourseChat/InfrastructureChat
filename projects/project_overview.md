@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Projects- tour d'horizon
+title: Five Implementation Test Projects
 description: Quick Tour of Five Implementations to test Chat architecture
 ---
 
-# Five Implemntatios to test Chat architecture
-![Overview of BSC](../assets/BSC Open Reference Architecture-2023-07-15.excalidraw.png)
+# Five Implementations to test Chat architecture
+- Initial steps
+![Overview of BSC](../assets/images/BSC Open Reference Architecture-2023-07-15.excalidraw.png)
 (../assets\/images/)
 ## Center for Smart Infrastructure
 - Ingest all CSI documents
