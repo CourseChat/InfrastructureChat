@@ -3,5 +3,5 @@ name: Sophie Horvath
 role: Project Lead
 email: sophiehorvath@students.berkeley.net
 website: https://sophiehorvath.github.io/
-photo: sophie-horvath.jpeg
+photo: sophie_horvath.jpeg
 ---
