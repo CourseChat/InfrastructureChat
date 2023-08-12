@@ -1,13 +1,20 @@
 ---
 layout: page
-title: Five Implementation Test Projects
+title: Five Test Projects
 description: Quick Tour of Five Implementations to test Chat architecture
 ---
 
 # Five Implementations to test Chat architecture
-- Initial steps
+1. [Center for Smart Infrastructure](https://smartinfrastructure.berkeley.edu/) scientific reports
+2. Digital Twin of UC Berkeley campus: build 3D model
+3. East Bay Municipal Utility District: 
+    - build model of all 4,300 miles of distribution pipe system
+    - ingest 20,000 paper records of pipe main repairs from historical archive
+    - merge with existing relational DB pipe segment records
+4. Generate complete UCB Sustainability Report for [STARS Sustainability](https://stars.aashe.org/) architecture
+5. [Center for Smart Infrastructure](https://smartinfrastructure.berkeley.edu/) scientific interviews
+
 ![Overview of BSC](../assets/images/BSC Open Reference Architecture-2023-07-15.excalidraw.png)
-(../assets\/images/)
 ## Center for Smart Infrastructure
 - Ingest all CSI documents
     - Project descriptions, NSF grant applications, project reports
@@ -27,6 +34,8 @@ description: Quick Tour of Five Implementations to test Chat architecture
     - 63 PDF at 
 - Ingest past UCBerkeley reports
 - 2021 Report: [The Sustainability Tracking, Assessment & Rating System](https://reports.aashe.org/institutions/university-of-california-berkeley-ca/report/2021-03-04/AC/curriculum/AC-1/)
+- 2021 [Water Report](https://reports.aashe.org/institutions/university-of-california-berkeley-ca/report/2021-03-04/OP/water/OP-21/)
+- 
 ### Lawrence Berkeley Lab Office of Sustainability
  - link to office; annual reports
 - LBL digital twin projects: 
