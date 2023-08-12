@@ -5,7 +5,7 @@ description: Quick Tour of Five Implementations to test Chat architecture
 ---
 
 # Five Implemntatios to test Chat architecture
-![Overview of BSC](..assets/images/BSC Open Reference Architecture-2023-07-15.excalidraw.png)
+![Overview of BSC](../assets/BSC Open Reference Architecture-2023-07-15.excalidraw.png)
 (../assets\/images/)
 ## Center for Smart Infrastructure
 - Ingest all CSI documents
@@ -21,13 +21,16 @@ description: Quick Tour of Five Implementations to test Chat architecture
 
 ## Sustainability and Resilience
 ### UC Berkeley Office of Sustainability
+- [Sustainability Dashboard](https://sustainability.berkeley.edu/engage/energy-dashboards)
 - Ingest all STARS document that form foundation of Sustainability Report
     - 63 PDF at 
 - Ingest past UCBerkeley reports
 - 2021 Report: [The Sustainability Tracking, Assessment & Rating System](https://reports.aashe.org/institutions/university-of-california-berkeley-ca/report/2021-03-04/AC/curriculum/AC-1/)
 ### Lawrence Berkeley Lab Office of Sustainability
  - link to office; annual reports
-
+- LBL digital twin projects: 
+    - Supercompter center cooling
+    - Building efficiency
 
  ## UC Berkeley Digital Twin
  - Create complete 3D model of all aspects of UCB physical plant
