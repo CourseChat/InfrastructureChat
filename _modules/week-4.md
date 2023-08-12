@@ -4,7 +4,7 @@ title: Week 4 - 10-14 July
 : July 10-Monday-Work at Home
 
 July 11
-: [Tues Morning](../lecture/ses14.md)
+: [LBL session](/InfrastructureChat/lecture/ses14)
   : [1.1](#)
 
 July 11
@@ -16,15 +16,15 @@ July 11
   : [1.2](#), [2.1](#)
 
 July 11
-: [Tues Afternoon](../lecture/SRG-Session.12-July5-Wed-aft)
+: [CSI discussion](/InfrastructureChat/lecture/ses15)
   : [1.1](#)
 
 July 12
-: [Wed Morning](../lecture/SRG-Session.14)
+: [Wed Morning](/InfrastructureChat/lecture/ses16)
   : [1.1](#)
 
 July 12
-: [Wed Afternoon](../lecture/SRG-Session.12-July5-Wed-aft)
+: [Wed Afternoon](/InfrastructureChat/lecture/ses17)
   : [1.1](#)
 
 
@@ -33,7 +33,7 @@ July 13
   : [1.1](#)
 
 July 13
-: [Thurs Afternoon](../lecture/../lecture/SRG-Session.13-July6-Thursday-aft)
+: [Thurs Afternoon](/InfrastructureChat/lecture/ses19-July 13-Thursday)
   : [1.1](#)
 
 July 13

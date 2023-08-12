@@ -5,7 +5,7 @@ title: Week 3 - 3-7 July
 ### July 3, 4 - Holiday
 
 July 5
-: **Session 11**{: .label .label-lecture} [Wed Morning](../lecture/ses11-July5-Wed-morn-DR)
+: **Session 11**{: .label .label-lecture} [How the Internet works](/InfrastructureChat/lecture/ses11-July5-Wed-morn-DR)
   : [1.1](#)
 
 July 5
@@ -17,7 +17,7 @@ July 5
   : [1.2](#), [2.1](#)
 
 July 5
-: **Session 12**{: .label .label-lecture} [Wed Afternoon](../lecture/ses12-July5-Wed-aft-DR)
+: **Session 12**{: .label .label-lecture} [Build Your Website](/InfrastructureChat/lecture/ses12-July5-Wed-aft-DR)
   : [1.1](#)
 
 July 6
@@ -25,7 +25,7 @@ July 6
   : [1.1](#)
 
 July 6
-: **Session 13** {: .label .label-lecture }[Thurs Afternoon](../lecture/ses13-July6-Thursday-aft-DR)
+: **Session 13** {: .label .label-lecture }[Build AI hardware](/InfrastructureChat/lecture/ses13-July6-Thursday-aft-DR)
   : [1.1](#)
 
 July 6
