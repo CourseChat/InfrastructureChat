@@ -7,7 +7,7 @@ nav_exclude: true
 ## An interaction between Dave Rauchwerk, GPT-4, Kenichi Soga, and civil engineering questions: 45 minutes
 - [Video streaming](https://drive.google.com/file/d/1jd3mop211XEeDjBmxyrqx8TGLuHrwBPy/view?usp=sharing)
 
-- [Full text](https://drive.google.com/file/d/1-HsFgkGNIpLK2s7Eq8Gb1iLWsnBlI5TO/view?usp=sharing)
+- [Full text](https://drive.google.com/file/d/1-FuAs1UkSyWyLfvzVXzNB2PfWmv0VpBK/view?usp=sharing)
 This class is a mutual exploration of new technology, with a focus on engineering applications
 
 - slides: To come

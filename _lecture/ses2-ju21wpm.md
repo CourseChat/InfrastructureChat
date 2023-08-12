@@ -7,7 +7,9 @@ nav_exclude: true
 ## An interaction between Dave Rauchwerk, GPT-4, Kenichi Soga, and civil engineering questions: 45 minutes
 - [Video streaming](https://drive.google.com/file/d/1qqsh7aXc7keRzTwDafMp1K3_eBnrSWM5/view?usp=sharing)
 
-- [Full text](https://drive.google.com/file/d/1-HsFgkGNIpLK2s7Eq8Gb1iLWsnBlI5TO/view?usp=sharing)
+Start at minute 11:40
+
+- [Full text](https://drive.google.com/file/d/1-70XRgqTichGhUEys0whMsz8KQcFrpAs/view?usp=sharing)
 This class is a mutual exploration of new technology, with a focus on engineering applications
 
 - slides: To come
@@ -16,7 +18,9 @@ This class is a mutual exploration of new technology, with a focus on engineerin
 # Session 2
 2023-06-21 Wed  aft      
 # Summary 
-Pilot SogaChat; build **GPT-4** access for all participants; enable GPU access; begin building **Colab** **Jupyter** notebooks                                                                                                             
+Demonstrate SogaChat, an interaction with Professor Soga's article for the National Academy of Engineering on Smart Cities, Digital Twins; 
+
+build **GPT-4** access for all participants; enable GPU access; begin building **Colab** **Jupyter** notebooks                                                                                                             
 # Video 
 
 [W2](https://berkeley.zoom.us/rec/share/3FPSp3hTSGA8wHCGZFhESVlv6IIved05cWsucahOa7rJa0oqcZEefoD-BYiRB5yn.aAJA2crUBOm34IVk?startTime=1687377654000)   
