@@ -3,6 +3,16 @@ layout: page
 title: Session.4-June23-Thu-afternoon
 nav_exclude: true
 ---
+# Begin by watching the class video:
+## An interaction between Dave Rauchwerk, GPT-4, Kenichi Soga, and civil engineering questions: 45 minutes
+- [Video streaming](https://drive.google.com/file/d/1jd3mop211XEeDjBmxyrqx8TGLuHrwBPy/view?usp=sharing)
+
+- [Full text](https://drive.google.com/file/d/1-HsFgkGNIpLK2s7Eq8Gb1iLWsnBlI5TO/view?usp=sharing)
+This class is a mutual exploration of new technology, with a focus on engineering applications
+
+- slides: To come
+- audio: for offline listening:
+- references: the sequence of URL's presented by DR
 SRG-Session.4
 # Session
  4   2023-06-22 Th  aft   

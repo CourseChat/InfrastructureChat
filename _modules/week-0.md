@@ -3,7 +3,7 @@ title: Week One
 ---
 
 Jun 21
-: **Session 1**{: .label .label-lecture } [AI Course Overview](../lecture/ses01-ju21wam)
+: **Session 1**{: .label .label-lecture } [AI-ML-CivEngineering Overview](../lecture/ses01-ju21wam)
     : [Data Science note](https://ds100.org/course-notes-su23/intro_lec/introduction.html)
 : **Lab 1**{: .label .label-lab } [Prerequisite Coding](http://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Flab%2Flab01%2Flab01.ipynb){:target="_blank"} (due Jun 24)
 : **Homework 1A**{: .label .label-hw } [Use GPT-4 to explore queries on SogaChat](http://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Fhw%2Fhw01%2Fhw01.ipynb){:target="_blank"} (due Jun 26)
