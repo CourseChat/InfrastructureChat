@@ -25,7 +25,7 @@ July 6
   : [1.1](#)
 
 July 6
-: **Session 13** {: .label .label-lecture }[Build AI hardware](/InfrastructureChat/lecture/ses13-July6-Thursday-aft-DR)
+: **Session 13**{: .label .label-lecture }[Build AI hardware](/InfrastructureChat/lecture/ses13-July6-Thursday-aft-DR)
   : [1.1](#)
 
 July 6
