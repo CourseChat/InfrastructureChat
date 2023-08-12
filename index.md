@@ -4,7 +4,7 @@ title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
 
-currWeekNumber: 8
+currWeekNumber: 6
 ---
 
 # Civil Engineering and Generative AI Language Models
@@ -24,8 +24,8 @@ UC Berkeley, Summer 2023
   </div>
 </div>
 
-{: .highlight }
-> Welcome to [Week 8](#week-{{page.currWeekNumber}})!
+
+
 
 
 <a name="schedule"></a>
