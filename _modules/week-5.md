@@ -29,7 +29,7 @@ July 19
 
 
 July 20
-: [Thurs Morning lab]()
+: [Thurs Morning GIS]()
   : [1.1](#)
 
 July 20
@@ -37,7 +37,7 @@ July 20
   : [1.1](#)
 
 July 20
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+: **Lab**{: .label .label-purple } [3D UCB Model](https://drive.google.com/drive/folders/1CaSKnF1V0NdqQNpGc2nKFkrKnaJdAQ6p)
 
 July 21
 : [Friday Morning]()
