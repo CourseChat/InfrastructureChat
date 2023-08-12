@@ -6,8 +6,8 @@ nav_exclude: true
 # Begin by watching the class video:
 ## An interaction between Dave Rauchwerk, GPT-4, Kenichi Soga, and civil engineering questions: 45 minutes
 - [Video streaming](https://drive.google.com/file/d/166yCL71y-8b59GVACAfzVrwKmledKT-H/view?usp=sharing)
-
-- [Full text](https://drive.google.com/file/d/1-HsFgkGNIpLK2s7Eq8Gb1iLWsnBlI5TO/view?usp=sharing)
+Start: minute 14:45
+- [Full text](https://drive.google.com/file/d/1-1QJQQ0bx42cMDwZpghrJBPm0Md-sraX/view?usp=sharing)
 This class is a mutual exploration of new technology, with a focus on engineering applications
 
 - slides: To come
@@ -17,6 +17,8 @@ SRG-Session.3
 # Session
  3  2023-06-22 Th morning
 # Summary
+
+- brief discussion of silicon photonics fabrication as possible class topic;
  Recap LLM, data base fundamentals; discuss **vector databases**, how to index and create them. How to build LLM, how to **embed** data; 
 
 # Video 
