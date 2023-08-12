@@ -7,7 +7,7 @@ description: A week-to-week description of the content covered in the course.
 currWeekNumber: 6
 ---
 
-# Civil Engineering and Generative AI Language Models
+# Civil Engineering meets Generative Language Models
 
 {: .mb-2 }
 UC Berkeley, Summer 2023
@@ -23,9 +23,6 @@ UC Berkeley, Summer 2023
     {% endfor %}
   </div>
 </div>
-
-
-
 
 
 <a name="schedule"></a>
