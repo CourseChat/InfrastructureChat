@@ -4,6 +4,14 @@ title: Session.11-July5-Wed-morn
 nav_exclude: true
 ---
 
+# Watch the video
+
+- Video: [How the Internet works](https://drive.google.com/file/d/1X1q-q0ZjjDUS-bP4f7E2xrCnudpahnQD/view?usp=sharing)
+- Transcript: not yet
+- References:
+- Audio:
+- Slides: tbd
+
 SRG-Session.11
 | 11             | 2023-07-05 Wed morn     
 
