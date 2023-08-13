@@ -16,7 +16,8 @@ nav_exclude: true
 
 
 ## Video- 3:12:00
-https://drive.google.com/drive/folders/1aG3Q4LrLy7N_SHzOOvQkeXGgjNCmtQIj
+[Video 1](https://drive.google.com/drive/folders/1aG3Q4LrLy7N_SHzOOvQkeXGgjNCmtQIj)
+[Video 2](https://drive.google.com/file/d/1wIxP2NQa_4II55yyu5-fristbWqSqcV2/view?usp=sharing)
 4605
 ## Transcription: 
 - https://drive.google.com/drive/folders/1-4KNeaE-J3dYYsqPdhGZXLS-wHLlDvdI
