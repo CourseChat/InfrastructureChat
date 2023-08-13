@@ -46,6 +46,7 @@ Session.11
 	- This is how to show a website inside another website: an old tool, but still used, by Youtube, for example
 
 ## Projects
+### Set up parallel website for all projects: each project has a separate subdomain
 	- Next step : create name for each project; create subdomains for each project Build the CSI website.
 		- PipeChat or PipeTwin
 		- Digital Twin; Project 4
@@ -53,6 +54,7 @@ Session.11
 		- ChatBot
 		- discussion of "Electron", the container holds the software to build the website;
 		- webserver must talk to a database containing the web site
+### 29:26 Create new domain for our projects
 		- create EX01.csi.berkeley domain, or EX01project.org; or .net; or other Top Level Domain; .tv--Tuvalu, .ly--Libya, .ai - Anguilla; draw.io--Indian Ocean;
 		- fiber optic global networks; 
 		- hurricane-electric; he.net; short domain name means it's old. global network map
