@@ -6,21 +6,24 @@ nav_exclude: true
 
 # Watch the video
 
-- Video: [How the Internet works](https://drive.google.com/file/d/1X1q-q0ZjjDUS-bP4f7E2xrCnudpahnQD/view?usp=sharing)
+- **Video**: [How websites work](https://drive.google.com/file/d/1X1q-q0ZjjDUS-bP4f7E2xrCnudpahnQD/view?usp=sharing).    1:10:29
 - Transcript: not yet
 - References:
 - Audio:
 - Slides: tbd
 
-SRG-Session.11
+Session.11
 | 11             | 2023-07-05 Wed morn     
 
 # Every project for this summer session will generate a website.  It will generate other things, but it will generate a website.  We will learn how, now.
-
-### what is an IP address? what is DNS? How do you host a CSI Chatbot? How do you do it safely, and how do you find a way to pay for each query to the CSI website?
-
+### What is a website?
 ## Topics
-Minute 51 describes making a website; then uses GitHub
+### What is an IP address? what is DNS? How do you host a CSI Chatbot? How do you do it safely, and how do you find a way to pay for each query to the CSI website?
+### 16:09 What is ICANN? What is whois?
+
+### How to create the CSI website
+
+### How to edit the CSI website using the Chrome 
 - CSI Chatbot and CSI website
 - How to build a personal websites: making websites from scratch; we will create a website for  everyone today.  Basics: 
 	- HTML language; hosting HTML pages, CSS, Javascript; what happens when you enter a web address
@@ -32,13 +35,17 @@ Minute 51 describes making a website; then uses GitHub
 	- all we do will result in a web site: digital twin; chatbot; EBMUD pipe main breaks; Sustainability chat; 
 	- Subdomains of domains; 
 	- imtp.google.com; pop3.google.com; smtp.google.com
-	- 
-- search for the CSI site; whois; ICANN; to ICANN look up site; how to builld 
+### 19:50 How to find the CSI domain name; using whois.domaintools.com- search for the CSI site; 
+### 21:02 UC Berkeley is a wpengine, WordPress web site, hosted in Texas
 	- Internet Corporation for Assigned names and numbers; DB of names to numbers;
 	- smartinfrastructure.berkeley.edu; original : 1985; WPengine: Texas, Austin; WordPress engine; WP engine hosts berkeley
 	- Cloudflare; 
+### 26:00 Using iframes to embed video on the CSI website--Using the editing facility by Shih--Hung
 	- How to embed a youtube video; get the  embed fideo iFrame text; copy and paste; show the Spot video inside of the CSI website using ShiHung's access to the Wordpress editor;
 	- Demonstrated changing the CSI website
+	- This is how to show a website inside another website: an old tool, but still used, by Youtube, for example
+
+## Projects
 	- Next step : create name for each project; create subdomains for each project Build the CSI website.
 		- PipeChat or PipeTwin
 		- Digital Twin; Project 4
