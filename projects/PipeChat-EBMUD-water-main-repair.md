@@ -1,5 +1,5 @@
 ---
-
+nav_exclude: true
 ---
 # EBMUD Water Main Repair Records
 - Ingest 20,000 historical paper repair reports
@@ -11,4 +11,3 @@
 - Evaluate past performance with artificial 250-foot segments
     - Development history with ??????. ML firm
     - replace with in-house system
-    

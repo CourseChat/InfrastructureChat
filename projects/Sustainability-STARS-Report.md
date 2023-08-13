@@ -1,5 +1,5 @@
 ---
-
+nav_exclude: true
 ---
 # Sustainability- STARS Report
 - UCB Office of Sustainability
