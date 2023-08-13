@@ -8,8 +8,10 @@ Jy 11
   : [1.1](#)
 
 Jy 11
-: **Session 16-CSI Materials**{: .label .label-lecture}[CSI discussion](/InfrastructureChat/lecture/ses16jy11tupm)
+: **Session 16-CSI Video Materials**{: .label .label-lecture}[CSI discussion](/InfrastructureChat/lecture/ses16jy11tupm)
   : [1.1](#)
+July 11
+: **Example of 3D Digital Twin**{: .label .label-lecture} [Digital Tokyo](https://3dview.tokyo-digitaltwin.metro.tokyo.lg.jp/?_ga=2.73785618.140035295.1689113302-1425231629.1689113302)
 
 Jy 12
 : **Session 17-Lab**{: .label .label-lab} [Session 17:Wed Morning](/InfrastructureChat/lecture/ses17jy12wedam)
