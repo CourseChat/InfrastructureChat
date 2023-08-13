@@ -24,12 +24,12 @@ Jy 19
   : [1.1](#)
 
 Jy 19
-: [Sess24-CSI visit](/InfrastructureChat/lecture/ses24jy19wedpm)
+: **Session 24-CSI visit**{: .label .label-lab}[Sess24-CSI visit](/InfrastructureChat/lecture/ses24jy19wedpm)
   : [1.1](#)
 
 
 Jy 20
-:**Session 25**{: .label .label-purple }[Thurs Morning GIS](InfrastructureChat/lecture/ses25jy20tham)
+: **Session 25**{: .label .label-purple }[Thurs Morning GIS](InfrastructureChat/lecture/ses25jy20tham)
   : [1.1](#)
 
 Jy 20

@@ -55,6 +55,7 @@ Solar station vulnerability:
 - TerraJS: we will run our own GIS 3D display of all Digital Twin resources
 	- Open source framework for web-based geospatial catalog explorers
 - Get Docker container: contains all needed software:   webservers, databases, application programs, to run 
+### Build a solar-powered, single-board Webserver for GIS, Digital Twin
 - How to connect this single board computer to the internet so anyone, anywhere, can connect to this directly? 
 - if we build a solar powered server that runs off a battery, charges itself, that costs less than a hundred bucks, that means you can basically have a computer that you can put anywhere and can offer information of any type, geospatial or otherwise for free.
 - If you added a Starlink dish, which is, you know, 150 bucks a month for the service,  then you can provision a site anywhere on earth.
@@ -81,7 +82,7 @@ It's going to be something that helps us share all the information that we need 
 - Create an encrypted connection from your machine to this machine
 - Remember about IP addresses: we're going to turn on SSH and VPN, which you will need at some point wherever you are in the world, to reach the rest of the world.
 - What if we could punch a hole in the network and then communicate to a different system somewhere around the internet, and then all of us connected that system out on the internet, which will then punch a hole back through the Berkeley network and then communicate?
-### All Utility companies try to protect their computer systems, and usually fail
+### All Utility companies try to protect their computer system security, and usually fail
 - the role of the IT folks is to try and create a series of walled gardens where things can talk to each other, so that only the right things talk to the right things, and invariably, it's kind of impossible, 
 - because there's so much stuff, there's so many things to play into, and then when you want to use something, even if you're not trying to do something wrong, you're trying to get on Slack, or you're trying to hook a server up here, you can't make it work.
 - And so over the last couple of years, **this has all changed**, and **there's different philosophy** about doing this, and 
