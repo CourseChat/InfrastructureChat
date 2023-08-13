@@ -19,8 +19,8 @@ description: Quick Tour of AI
     - build "SogaChat" by ingesting Dr. Soga's NAE paper, querying the embedding
 
 - [Session Two](lecture/ses2-ju21wpm.md)
-  - June 21 afternoon: build all participants capability to access "developer" access to GPT-4 API;
-  - Explore a variety of open-source language models: Galactica, 
+  - June 21 afternoon: give all participants "developer" status to the GPT-4 API using pre-paid access code;
+  - Explore a variety of open-source language models: Galactica, LLaMA
 
 - [Session Three](lecture/ses3-ju22tham.md)
     - Explore ingestion of text; use Pokemon manual as example; build GoogleDrive repository for text to be ingested
