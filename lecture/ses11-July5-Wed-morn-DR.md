@@ -70,15 +70,16 @@ Session.11
 	- how do I connect my database to my webserver?
 
 
-### How we should display our Digital Twin
+### 53:58 How we should display our Digital Twin: Use TerriaJs at GitHub: terria.io
 - Can use Cesium, and a JavaScript wrapper--Terria-- for Cesium to put all  UCB campus data in one place, then create 3D display.  See Australian universities as example.
 - Digital Twin: Jason: site in slack; Australian universities built pioneer visualization of digital twins, and GIS systems. Terria.github; 
+### NSW Digital Twin: 55:18. nsw.digitaltwin.terria.io
 		- Holds other mapping engines in a container; Australia's digital twin ecosystem; 
 		- minute 54;
 		- Cesium-based globe; shows Australia; add layers for water pipes, trains,
 		- Add all data in one place; then run simulation behind all the data that is georegistered; Terria.js allows you to build, as a wrapper on top of Cesium
 - Need example of how this works with ESRI; how to add each kind of data
-## Example of using Chrome inspector to edit a web page in the browser
+## 58:30 Example of using Chrome inspector to edit a web page in the browser
 - using the "Inspector" , you can change any element on any web page using this tool in the Chrome browser. It works in Firefox, too. As you edit in the inspector, you can see what it will look like after each edit
 - use inspector in Chrome to edit webpage on the fly: 59:00 ; use dropdowneditor to open inspector; windows open to the side; Examples:
 		- Add CSI logo to the Terria website showing data for Australia New South Wales.; change the element linking to NSW logo to the CSI link to an image, a .png;
