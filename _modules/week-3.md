@@ -18,14 +18,8 @@ Jy 6
 
 Jy 6
 : **Session 14-NetZero Security model;3D Digital Twin**{: .label .label-yellow }[Build AI hardware;CSI site](/InfrastructureChat/lecture/ses14-July6-Thursday-aft-DR)
-Jy 6
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
 Jy 7
 : **CSI Visit** [Friday Morning]()
-  : [1.1](#)
 
 Jy 7
 : [Friday Afternoon]()
-  : [1.1](#)
-
