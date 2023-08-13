@@ -5,7 +5,7 @@ title: Week 3 - 3-7 July
 ### July 3, 4 - Holiday
 
 Jy 5
-: **Session 11**{: .label .label-lecture} [How the Internet works](/InfrastructureChat/lecture/ses11-July5-Wed-morn-DR)
+: **Session 11**{: .label .label-lecture} [How the Internet and websites work](/InfrastructureChat/lecture/ses11-July5-Wed-morn-DR)
   : [1.1](#)
 
 Jy 5
