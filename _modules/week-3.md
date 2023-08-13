@@ -21,13 +21,11 @@ Jy 5
   : [1.1](#)
 
 Jy 6
-: [Thurs Morning lab]()
+: [Thurs Morning lab](/InfrastructureChat/lecture/ses13jy6tham)
   : [1.1](#)
 
 Jy 6
-: **Session 13**{: .label .label-yellow }[Build AI hardware](/InfrastructureChat/lecture/ses13-July6-Thursday-aft-DR)
-  : [1.1](#)
-
+: **Session 14**{: .label .label-yellow }[Build AI hardware;CSI site](/InfrastructureChat/lecture/ses14-July6-Thursday-aft-DR)
 Jy 6
 : **Lab**{: .label .label-purple } [Intro to Java](#)
 

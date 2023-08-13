@@ -3,6 +3,7 @@ layout: page
 title: Session.13-July6-Thursday-aft
 nav_exclude: true
 ---
+14
 
 # Rebuild PC's from scratch to install latest version of Linux; Build new CSI website; buy domain; publish
 ## Buy  global domain for CSI  website to hold all projects
@@ -13,13 +14,29 @@ nav_exclude: true
 	- show how to architect a new site; security discussion
 		-  64 GB of memory on single board; add 2TB disk later
 
- 13             | 2023-07-06 Thu morn      
 
 ## Video- 3:12:00
 https://drive.google.com/drive/folders/1aG3Q4LrLy7N_SHzOOvQkeXGgjNCmtQIj
 4605
 ## Transcription: 
 - https://drive.google.com/drive/folders/1-4KNeaE-J3dYYsqPdhGZXLS-wHLlDvdI
+
+ 14  | 2023-07-06 Thu aft | 
+## Video
+https://drive.google.com/drive/folders/1aG3Q4LrLy7N_SHzOOvQkeXGgjNCmtQIj
+
+
+ 
+ Rebuild PC to run Linux; use Raspberry Pi to build software to support new CSI web site: relational database; geographic information systems; digital twin; videos; new website; design solar-powered server for CSI; create and purchase new domain; configure Cloudflare as global web host;  create web site using Chat; launch http://ex01srg.net/ 
+
+- Bill of Materials:  https://sfbay.craigslist.org/eby/ele/d/union-city-cheap-solar-panel-25-each/7635024452.html
+
+Spreadsheet BOM: [https://docs.google.com/spreadsheets/d/1XUCs4yC9r8RpuyVYP60VUUVcXFDwyEvgfiAJj5znRd0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1XUCs4yC9r8RpuyVYP60VUUVcXFDwyEvgfiAJj5znRd0/edit?usp=sharing) (edited) 
+
+Solar station vulnerability:
+[https://arstechnica.com/security/2023/07/actively-exploited-vulnerability-threatens-hundreds-of-solar-power-stations/](https://arstechnica.com/security/2023/07/actively-exploited-vulnerability-threatens-hundreds-of-solar-power-stations/)
+
+
 
 ## Outline
 
@@ -59,21 +76,27 @@ That's it.
 It's going to be something that helps us share all the information that we need to have as well to build the things we're about to build.
 
 - Everyone now, use your computer to connect to this single-board computer. We do it using SSH
-
+## Computer Security, encryption, SSH: the move to Zero Trust systems
 ### Using SSH to connect to any computer
 - Create an encrypted connection from your machine to this machine
 - Remember about IP addresses: we're going to turn on SSH and VPN, which you will need at some point wherever you are in the world, to reach the rest of the world.
-- What if we could punch a hole in the network and then communicate to a different system somewhere around the internet, and then all of us connected that system out on the internet, which will then punch a hole back through the Berkeley network and then communicate.
-- the role of the IT folks is to try and create a series of, particularly like sort of walled gardens where things can talk to each other, so that only the right things talk to the right things, and invariably, it's kind of like, kind of impossible, because there's so much stuff, there's so many things to play into, and then when you wanna use something, you're not trying to do something wrong, you're trying to get on Slack, or you're trying to hook a server up here, you can't make it work.
-- And so over the last couple of years, this has all changed, and there's different philosophy about doing this, and the people that specialize in cybersecurity, people like the NSA, National Security Agency, or CISA, the Cyber Infrastructure Security Agency, who are responsible for these things, and I'll show you what these things look like.
-- They actually operate more computers than probably anyone in the world, probably a fair guess.Mostly, they listen to people talking, all right? 
-- And then CISA, CISA is a newer agency, I think they're part of Homeland Security, and they are responsible for coordinating with the public, and businesses, and the government, when there is some sort of cyber attack, or cyber incident.
+- What if we could punch a hole in the network and then communicate to a different system somewhere around the internet, and then all of us connected that system out on the internet, which will then punch a hole back through the Berkeley network and then communicate?
+### All Utility companies try to protect their computer systems, and usually fail
+- the role of the IT folks is to try and create a series of walled gardens where things can talk to each other, so that only the right things talk to the right things, and invariably, it's kind of impossible, 
+- because there's so much stuff, there's so many things to play into, and then when you want to use something, even if you're not trying to do something wrong, you're trying to get on Slack, or you're trying to hook a server up here, you can't make it work.
+- And so over the last couple of years, **this has all changed**, and **there's different philosophy** about doing this, and 
+- the people that specialize in cybersecurity, people like the NSA, National Security Agency, or CISA, the Cyber Infrastructure Security Agency, who are responsible for these things, and 
+- I'll show you what these things look like.
+- They actually operate more computers than probably anyone in the world, probably a fair guess. Mostly, they listen to people talking. 
+- And then CISA, **CISA is a newer agency**, I think they're part of Homeland Security, and they are responsible for coordinating with the public, and businesses, and the government, when there is some sort of cyber attack, or cyber incident.
+### Here is CISA, and they have new requirements for Zero Trust that all utilities must follow, but most are years behind
+- so our utilities have often been infected with hidden security breach software. Do they know how to find it? And remove it? 
 - Click here...click *learn more*, and they publish these really interesting reports, that will tell you basically what hackers are doing inside the United States, or against the United States.
-- So if we wanna get around some kind of, say as a government's totalitarian filtering of the internet, or we wanna maybe connect to our machine inside of Berkeley network, from out on the internet somewhere, what we can do is we can use Cloudflare as network, and we connect to one of the blue dots. Cloudflare has servers everywhere.
+- So **if we wanna get around some kind of, say as a government's totalitarian filtering** of the internet, or we wanna maybe connect to our machine inside of Berkeley network, from out on the internet somewhere, what we can do is we can use Cloudflare as network, and we connect to one of the blue dots. Cloudflare has servers everywhere.
 - we're gonna use something called, it's now called Zero Trust. This is the new security model. It replaces what EBMUD uses....firewalls.
 - we're gonna use our Google accounts to prove that we are who we say we are.
 - the way that everything's going, the zero-trust stuff, is we connect everything in a big mesh. And if everything has to prove, you have to prove that you are who you say you are.
-- Zero trust security is an IT security model that requires strict identity verification for every person in device trying to access the resources under private network, regardless of whether they're sitting within or outside the network provider.
+- **Zero trust security is an IT security model that requires strict identity verification for every person and device** trying to access the resources under private network, regardless of whether they're sitting within or outside the network provider.
 - So does everybody have multi-factor authentication to enable their Google account? Yes, no, yes, no. Okay, you should.
 - Let's buy a domain. So, we know what domains are, right? What we're gonna do is we're gonna find domain name we like.
    So, if I go to domain registration and I register a domain, what do I want our thing to call? We said XO1SRG.net. Cool.
