@@ -10,7 +10,7 @@ Jun 27
   : [1.1](#)
 : **Section**{: .label .label-purple } [Lunch session](../lecture/ses10ju29thpm)
   : [Solution](#)
-: **Session 6**{: .label .label-yellow } [Afternoon](/InfrastructureChat/lecture/ses6-June27-Tu-aft-DT)
+: **Session 6**{: .label .label-lecture } [Afternoon](/InfrastructureChat/lecture/ses6-June27-Tu-aft-DT)
   : [1.1](#)
 
 Jun 28 
@@ -21,12 +21,12 @@ Jun 28
 : **Lab**{: .label .label-purple } [Intro to Java](#)
 
 Jun 29 
-: **Session 9**{: .label .label-lecture } [Morning](/InfrastructureChat/lecture/ses9-Ju29Tham)
+: **Session 9-SPOT robot demo**{: .label .label-lecture } [SPOT runs](/InfrastructureChat/lecture/ses9-Ju29Tham)
   : [1.1](#)
-: **Session 10**{: .label .label-lecture } [Afternoon](/InfrastructureChat/lecture/ses10ju29thpm)
+: **Session 10-EBMUD OCR Pipe records**{: .label .label-yellow } [Open Source LLM;Langchain](/InfrastructureChat/lecture/ses10ju29thpm)
   : [1.1](#)
 
 Jun 30
-: [LangChain](#)
+: [LangChain]()
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }

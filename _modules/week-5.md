@@ -16,7 +16,7 @@ Jy 18
   : [1.2](#), [2.1](#)
 
 Jy 18
-: [Ses22-Build PostGres;Create CSI Website](/InfrastructureChat/lecture/ses22jy18tupm)
+: **Sess 22-Build CSI Website for Chat** [Ses22-Build PostGres;Create CSI Website](/InfrastructureChat/lecture/ses22jy18tupm)
   : [1.1](#)
 
 Jy 19
