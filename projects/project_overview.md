@@ -4,14 +4,14 @@ title: Five Test Projects
 description: Quick Tour of Five Implementations to test Chat architecture
 ---
 
-# Five Implementations to test Chat architecture
-1. [Center for Smart Infrastructure](https://smartinfrastructure.berkeley.edu/) scientific and engineering reports
-2. Generate complete UCB Sustainability Report for [STARS Sustainability](https://stars.aashe.org/) architecture
+# Five Implementations to test Generative Chat architecture against data repositories
+## 1. Build complete vector DB for CSI [Center for Smart Infrastructure](https://smartinfrastructure.berkeley.edu/) scientific and engineering reports
+## 2. Build VDB of STARS PDF guides, then generate complete UCB Sustainability Report for [STARS Sustainability](https://stars.aashe.org/) architecture
 
-3. Digital Twin of UC Berkeley campus: build 3D model of all assets
+## 3.Digital Twin of UC Berkeley campus: build 3D model of all assets
 
-4. [Center for Smart Infrastructure](https://smartinfrastructure.berkeley.edu/) create scientific interviews
-5. East Bay Municipal Utility District: 
+## 4. [Center for Smart Infrastructure](https://smartinfrastructure.berkeley.edu/) create scientific interviews
+## 5. East Bay Municipal Utility District Predictive Model for Water Main Breaks
     - build model of all 4,300 miles of distribution pipe system
     - ingest 20,000 paper records of pipe main repairs from historical archive
     - merge with existing relational DB pipe segment records
