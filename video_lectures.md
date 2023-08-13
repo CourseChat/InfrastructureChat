@@ -10,7 +10,7 @@ description: Quick Tour of AI
 
 
 # Interactive sessions
-- with several kinds of content for Infrastructure Chat: vector embedding
+- building Infrastructure Chat: vector embedding of text, PDF's, .csv files
 
 ## Direct Links
 
