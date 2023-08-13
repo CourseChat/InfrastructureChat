@@ -29,11 +29,8 @@ description: Quick Tour of AI
 - [Session Four](lecture/ses4ju22thpm.md)
     - Explore langchain; 
 
-- [Session Five](lecture/ses5-June27-Tu-morn-LBL.md)
-    -not relevant
 
-- [Session Six](lecture/ses6-June27-Tu-aft-DT.md)
-    - Explore ?
+-
 - [Session Seven](lecture/ses7-Ju28Wam-CSI.md)
     - relevant?
 - [Session Eight](lecture/ses8-Ju28wpmS.md)

@@ -46,6 +46,7 @@ description: Quick Tour of Five Implementations to test Chat architecture
 
 ## 3. UC Berkeley Digital Twin
  - Create complete 3D model of all aspects of UCB physical plant
+ - [Description](/InfrastructureChat/projects/UCB-Digital-Twin.md)
 ### Build on existing UCB datasets
  - Energy, Power, Water, Gas, Steam
 ### Extend to full operational Chat
