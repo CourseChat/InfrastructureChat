@@ -14,14 +14,14 @@ June 27
   : [1.1](#)
 
 June 28 
-: **Session7**{: .label .label-lecture } [Project](/InfrastructureChat/lecture/ses7-Ju28Wam-CSI)
+: **Session 7**{: .label .label-lecture } [Project](/InfrastructureChat/lecture/ses7-Ju28Wam-CSI)
   : [1.1](#)
 : **Session 8**{: .label .label-lecture } [Project meet](/InfrastructureChat/lecture/ses8-Ju28wpmS)
   : [1.1](#)
 : **Lab**{: .label .label-purple } [Intro to Java](#)
 
 June 29 
-: **Session9**{: .label .label-lecture } [Morning](/InfrastructureChat/lecture/ses9-Ju29Tham)
+: **Session 9**{: .label .label-lecture } [Morning](/InfrastructureChat/lecture/ses9-Ju29Tham)
   : [1.1](#)
 : **Session 10**{: .label .label-lecture } [Afternoon](/InfrastructureChat/lecture/ses10ju29thpm)
   : [1.1](#)
