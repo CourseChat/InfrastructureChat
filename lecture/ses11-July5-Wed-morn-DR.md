@@ -84,8 +84,10 @@ Session.11
 - use inspector in Chrome to edit webpage on the fly: 59:00 ; use dropdowneditor to open inspector; windows open to the side; Examples:
 		- Add CSI logo to the Terria website showing data for Australia New South Wales.; change the element linking to NSW logo to the CSI link to an image, a .png;
 		- then use Cascading Style sheet; to alter the width and height of the CSI logo so it looks right.
-- If we can master how to upload the UCBerkeley data in the right data catalog, we can create the Cesium website for the  UCBerkeley digital twin. 1:01:52
+- If we can master how to upload the UCBerkeley data in the right data catalog, we can create the Cesium website for the  UCBerkeley digital twin. 1:01:52### Q
+### 1:10:29 QGIS plugin to share geographic models
 
+### Next: everyone create their own website
 ## Location of the Github cheat sheets that list all the interesting info for the various tools mentioned in the talks
 - [Link to DR Github repository for instructions to create Digital Twin](https:///Github.com/dbrauchwerk/SRG_S23/wiki/Digital-Twins)
   or https://github.com/dbrauchwerk/SRG_S23/wiki/Digital-Twins 

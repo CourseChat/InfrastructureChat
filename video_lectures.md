@@ -44,9 +44,13 @@ description: Quick Tour of AI
 - [Session Ten](lecture/ses10ju29thpm.md)
     -relevant
 - [Session 11](lecture/ses11-July5-Wed-morn-DR.md)
-    - relevant?
+    - Major session: What is the internet and how does it work? How to find the UCBerkeley web server for CSI, and edit it. 
+    - How to create separate DNS domains for each CSI project.
+    - How to build 3D Digital Twins, displaying all data on a global site
+    - How to integrate QGIS. The major GitHub sites for geographic information.
 - [Session 12](lecture/ses12-July5-Wed-aft-DR.md)
-    - relevant?
+    - Everyone build their own web site.
+    - How to get a domain name, how to create subdomains, how to deploy your project so the world can see it
 - [Session 13](lecture/ses13-July6-Thursday-aft-DR.md)
 - relevant?
 
