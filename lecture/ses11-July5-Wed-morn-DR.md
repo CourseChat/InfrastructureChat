@@ -44,6 +44,7 @@ Session.11
 	- How to embed a youtube video; get the  embed fideo iFrame text; copy and paste; show the Spot video inside of the CSI website using ShiHung's access to the Wordpress editor;
 	- Demonstrated changing the CSI website
 	- This is how to show a website inside another website: an old tool, but still used, by Youtube, for example
+### 30:28 The difference between a web site and a web application 40:08
 
 ## Projects
 ### Set up parallel website for all projects: each project has a separate subdomain
@@ -56,15 +57,20 @@ Session.11
 		- webserver must talk to a database containing the web site
 ### 29:26 Create new domain for our projects
 		- create EX01.csi.berkeley domain, or EX01project.org; or .net; or other Top Level Domain; .tv--Tuvalu, .ly--Libya, .ai - Anguilla; draw.io--Indian Ocean;
+		- 37:00
 		- fiber optic global networks; 
-		- hurricane-electric; he.net; short domain name means it's old. global network map
+### 40:20  hurricane-electric; he.net; short domain name means it's old. See all the global fibers on the global network map
 		- Select one undersea fiber, note the names of endpoints, find IP numbers for racks at each end. Packets flow.  Show the datacenters at each end; 1U; 19 inches; 42U high;
 			- how many 1U units were needed for a certain website size?
 		- How to render Finite Element Analysis results as an interactive 3D visualization on the CSI website;  embed it in the website;
 		- New set of links that enable each project; 
 		- "what happens when you type a url in a search engine?  a typical interview question." the seven OSI layers; necessary to know to fix it when it doesn't work.
-	
-### Display of Digital Twin
+### 40:08 The difference between a web site and a web application 
+	- how do we integrate our LLL chat?  We need a database.
+	- how do I connect my database to my webserver?
+
+
+### How we should display our Digital Twin
 - Can use Cesium, and a JavaScript wrapper--Terria-- for Cesium to put all  UCB campus data in one place, then create 3D display.  See Australian universities as example.
 - Digital Twin: Jason: site in slack; Australian universities built pioneer visualization of digital twins, and GIS systems. Terria.github; 
 		- Holds other mapping engines in a container; Australia's digital twin ecosystem; 
