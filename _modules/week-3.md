@@ -13,7 +13,7 @@ Jy 5
   : [1.1]()
 
 Jy 6
-: **Session 13-AI hardware; build embedding support** [Thurs Morning lab](/InfrastructureChat/lecture/ses13jy6tham)
+: **Session 13-AI hardware; build embedding support**{: .label .label-yellow} [Thurs Morning lab](/InfrastructureChat/lecture/ses13jy6tham)
   : [1.1](#)
 
 Jy 6
