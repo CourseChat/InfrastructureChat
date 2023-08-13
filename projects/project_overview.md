@@ -2,7 +2,7 @@
 layout: page
 title: Five Test Projects
 description: Quick Tour of Five Implementations to test Chat architecture
-nav_exclude: true
+nav_exclude: false
 ---
 
 # Five Implementations to test Generative Chat architecture against data repositories
