@@ -17,7 +17,7 @@ Jy 5
   : [1.2](#), [2.1](#)
 
 Jy 5
-: **Session 12**{: .label .label-lecture} [Build Your Website, your Domain](/InfrastructureChat/lecture/ses12-July5-Wed-aft-DR)
+: **Session 12**{: .label .label-yellow} [Build Your Website, your Domain](/InfrastructureChat/lecture/ses12-July5-Wed-aft-DR)
   : [1.1](#)
 
 Jy 6
@@ -25,7 +25,7 @@ Jy 6
   : [1.1](#)
 
 Jy 6
-: **Session 13**{: .label .label-lecture }[Build AI hardware](/InfrastructureChat/lecture/ses13-July6-Thursday-aft-DR)
+: **Session 13**{: .label .label-yellow }[Build AI hardware](/InfrastructureChat/lecture/ses13-July6-Thursday-aft-DR)
   : [1.1](#)
 
 Jy 6
