@@ -10,7 +10,7 @@ Jun 27
   : [1.1](#)
 : **Section**{: .label .label-purple } [Lunch session](../lecture/ses10ju29thpm)
   : [Solution](#)
-: **Session 6**{: .label .label-lecture } [Afternoon](/InfrastructureChat/lecture/ses6-June27-Tu-aft-DT)
+: **Session 6**{: .label .label-yellow } [Afternoon](/InfrastructureChat/lecture/ses6-June27-Tu-aft-DT)
   : [1.1](#)
 
 Jun 28 
