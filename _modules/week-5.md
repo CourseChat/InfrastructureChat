@@ -4,7 +4,7 @@ title: Week 5 - 17-21 July
 July 17-Monday-Work at Home
 
 Jy 18
-: [Ses 21-LBL Session](/InfrastructureChat/lecture/ses21jy18tuam)
+: **Session 21-LBL** [Ses 21-LBL Session](/InfrastructureChat/lecture/ses21jy18tuam)
   : [1.1](#)
 
 Jy 18
@@ -16,7 +16,7 @@ Jy 18
   : [1.2](#), [2.1](#)
 
 Jy 18
-: **Sess 22-Build CSI Website for Chat** [Ses22-Build PostGres;Create CSI Website](/InfrastructureChat/lecture/ses22jy18tupm)
+: **Sess 22-Build CSI Website for Chat**{: .label .label-yellow } [Ses22-Build PostGres;Create CSI Website](/InfrastructureChat/lecture/ses22jy18tupm)
   : [1.1](#)
 
 Jy 19
@@ -33,7 +33,7 @@ Jy 20
   : [1.1](#)
 
 Jy 20
-: **Session 26**{: .label .label-yellow }[DFOS Photonics](/InfrastructureChat/lecture/ses26jy20thpm)
+: **Session 26-DFOS photonics**{: .label .label-yellow }[DFOS Photonics](/InfrastructureChat/lecture/ses26jy20thpm)
   : [1.1](#)
 
 Jy 20
