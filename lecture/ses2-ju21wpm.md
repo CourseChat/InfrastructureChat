@@ -3,8 +3,9 @@ layout: page
 title: Session.2-June22-Wed-afternoon
 nav_exclude: true
 ---
-# A survey of databases, vector databases, embedding of text as vectors, machine learning and large language models [LLM]
-## open source vs commercial models for LLM; Machine learning [ML]
+# Session 2: What are databases, vector databases, text embedding as vectors, machine learning and large language models [LLM]?
+## OpenAI; open source vs commercial models for LLM; why we first use GPT-4
+## Building Machine learning [ML] multi-mode models
 ## What is a vector database, how is it computed, how to use multiple ML's together for querying LLM
 ## How to build a ML model of every pipe segment in EBMUD
 ## How to verify the truth of LLM query and responses
@@ -13,16 +14,17 @@ nav_exclude: true
 
 # Begin by watching the class video:
 ## An interaction between Dave Rauchwerk, GPT-4, Kenichi Soga, and civil engineering questions: 45 minutes
-- [Video streaming](https://drive.google.com/file/d/1qqsh7aXc7keRzTwDafMp1K3_eBnrSWM5/view?usp=sharing)
+- [**Video streaming**](https://drive.google.com/file/d/1qqsh7aXc7keRzTwDafMp1K3_eBnrSWM5/view?usp=sharing); two hours
 
 Start at minute 11:40
 
-- [Full text](https://drive.google.com/file/d/1-70XRgqTichGhUEys0whMsz8KQcFrpAs/view?usp=sharing)
+- [**Full text transcript**](https://drive.google.com/file/d/1-70XRgqTichGhUEys0whMsz8KQcFrpAs/view?usp=sharing)
+- use the webpage search to find, eg, "vector database", "machine learning", "verification" 
 This class is a mutual exploration of new technology, with a focus on engineering applications
 
 - slides: To come
 - audio: for offline listening:
-- references: the sequence of URL's presented by DR
+- references: the sequence of URL's presented by DR; see below
 # Session 2
 2023-06-21 Wed  aft      
 # Summary 
