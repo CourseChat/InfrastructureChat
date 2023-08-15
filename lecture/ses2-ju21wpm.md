@@ -11,6 +11,7 @@ nav_exclude: true
 ## How to verify the truth of LLM query and responses
 ## Building and testing SOGACHAT- built on NAE article on smart cities
 ## Getting a high-level understanding of all of the pieces of AI, ML, and query interfaces
+- we cover a lot, but this is a seminar for professors, post-doc researcers, Ph.D. candidates, and university-level students
 
 # Begin by watching the class video:
 ## An interaction between Dave Rauchwerk, GPT-4, Kenichi Soga, and civil engineering questions: 45 minutes
