@@ -22,7 +22,7 @@ Start at minute 11:40
 - [**Full text transcript**](https://drive.google.com/file/d/1-70XRgqTichGhUEys0whMsz8KQcFrpAs/view?usp=sharing)
 - use the webpage search to find, eg, "vector database", "machine learning", "verification" 
 This class is a mutual exploration of new technology, with a focus on engineering applications
-
+- [**CoLab notebooks**](https://github.com/dbrauchwerk/SRG_S23/wiki/Colab-Notebooks)
 - slides: To come
 - audio: for offline listening:
 - references: the sequence of URL's presented by DR; see below
