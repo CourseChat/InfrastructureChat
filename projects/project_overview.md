@@ -4,8 +4,36 @@ title: Five Test Projects
 description: Quick Tour of Five Implementations to test Chat architecture
 nav_exclude: false
 ---
+# Potential Project suggestions
+- Revision of Center for Smart Infrastructure website to incorporate generative PipeChat dialog, with query interfaces to research projects
+    - A. Designed for interaction with general public, regulatory bodies, journalism and reporting sites
+    - B. Designed for interaction with specialized engineering and utility groups: EBMUD, California State Water Board, LADWP, Metropolitan, PG&E, SFPUC, NSF
+- Build Immersive 3-D visualization of EBMUD and UCB distribution and collection piping systems; 
+    - HoloLens;  Apple Vision Pro
+    - Extend to visualization of thermal flows, structural strains, energy, water, and air flows in UCB campus structures
+- Extend UC Berkeley 3-D Digital Twin models
+    - Energy, power, thermal, water, steam, particulate; 
+    - Complete ontology for all UCB structures and infrastructure
+    - Incorporate Large Language model technology to extend Machine Learning models to real-time data analysis of sensor data
+    - Develop disaster response model for UCB campus: earthquake,fire, flood, particulate, pathogen, radiation, evacuation and traffic
+- Create LLM model of existing UCB Sustainability models
+    - Develop LLM embeddings to generate STARS reports on all aspects of UCB operations
+    - Integrate with Digital Twin project
+- Build LLM models of all UCB Civil and Environmental Engineering classes
+    - Create generative models from scientific and engineering literature in civil engineering fields
+    - Develop workflow for each course, ingesting video of each course with textual, diagramatic, geospatial, and time-series data flow of labs, lectures, and literature
+- Develop computational infrastructure to support use of generative models in all coursework
+    - Experiment with all open-source implementations to explore least-cost validated implementations
+    - Develop cost model to support innovative research proposals
+    - Create computational support for LLM and generative research in civil engineering
+- Explore new implementations of Distributed Fiber Optic Sensing
+    - Explore least-cost photonics chip and board designs for highly cost-reduced interrogation systems
+- Build LLM systems for ingestion of EBMUD pipe repair records, to build machine-learning models for each pipe segment failure prediction
+    - Use new LLM and vision-inhanced OCR systems to ingest hundreds of thousands of paper maintenance records
+    - build deep learning models based on new attribute data for each pipe segment and pressure zone
+    - enhance existing sensing systems with new LIDAR, acoustic, seismic, and EMF field data
 
-# Five Implementations to test Generative Chat architecture against data repositories
+# Five Actual Implementations to test Generative Chat architecture against data repositories
 ## 1. Build complete vector DB for CSI [Center for Smart Infrastructure](https://smartinfrastructure.berkeley.edu/) scientific and engineering reports
 ## 2. Build VDB of STARS PDF guides, then generate complete UCB Sustainability Report for [STARS Sustainability](https://stars.aashe.org/) architecture
 
