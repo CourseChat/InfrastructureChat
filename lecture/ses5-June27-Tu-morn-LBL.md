@@ -5,5 +5,6 @@ nav_exclude: true
 ---
 
 SRG-Session.5
-
-| 5              | 2023-06-27 Tu  morn      | LBL session                                                                                                                                                                                                                                                                 No video                                                                                                                                                       
+- 2023-06-27 Tu  morn
+- LBL session
+- **Missing video**

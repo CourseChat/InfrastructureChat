@@ -5,5 +5,7 @@ nav_exclude: true
 ---
 
 SRG-Session.9
-| 9              | 2023-06-29  Th morn      | See Spot run     🤖
-- no video          | [Spot demo]()                                                                                                                                      
+-2023-06-29  Th morn
+- See SPOT run     🤖
+- no video
+- [Spot demo]()                                                                                                                                      
