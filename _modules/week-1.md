@@ -13,7 +13,7 @@ Jun 21
 : **Session 2**{: .label .label-yellow } [GPT-4 For You;Explore with paid token](/InfrastructureChat/lecture/ses2-ju21wpm) 
     : [Pandas 1](https://ds100.org/course-notes-su23/pandas_1/pandas_1.html)
 
-: **Discussion 1**{: .label .label-disc } 
+: **Discussion 1**{: .label .label-disc } [Potential Implementation Projects]
 : **Lab 2**{: .label .label-lab }[Large Language Models](https://github.com/dbrauchwerk/SRG_S23/wiki/Digital-Twins){:target="_blank"} (skim over weekend)
 
 
