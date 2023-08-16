@@ -18,8 +18,7 @@ Jun 21
 Jun 22
 : **Session 3**{: .label .label-yellow } [OpenAI;Open Source](/InfrastructureChat/lecture/ses3-ju22tham)
     : [Pandas 2](https://ds100.org/course-notes-su23/pandas_2/pandas_2.html)
-: **Lab 3**{: .label .label-lab } [**CoLab notebooks**](https://github.com/dbrauchwerk/SRG_S23/wiki/Colab-Notebooks)
-{:target="_blank"} (skim over weekend)
+: **Lab 3**{: .label .label-lab } [**CoLab notebooks**](https://github.com/dbrauchwerk/SRG_S23/wiki/Colab-Notebooks){:target="_blank"} (skim over weekend)
 
 Jun 22
 : **Session 4**{: .label .label-yellow } [LLaMA open source;Ingest text](/InfrastructureChat/lecture/ses4ju22thpm)
