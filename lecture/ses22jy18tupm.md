@@ -3,16 +3,19 @@ layout: page
 title: Session.22-July 18-Tuesday aft
 nav_exclude: true
 ---
+# Session 22- Tuesday, July 18 - Afternoon
+- 305 Davis Hall
+- 1pm; Arrival of new video equipment for interviews at CSI: Rode microphone for interviews
 
-Tuesday, July 18-  Afternoon
-Davis Hall
-1pm; Arrival of new video equipment for interviews at CSI: Rode microphone for interviews
+- Discussion of costs of forming queries; Costs of embedding texts and PDF's
+- PipeChat surpassed $100 a day for past several days, hit ceiling;
 
-And DR will make PipeChat begin to work again, using GPT-4 queries. We should use a different channel for experiments, so not to overwhelm this channel. 
 
-DR  briefly outlined  progress in building a new structure for CSIChat.  It's a *hybrid* . 
+- DR will make PipeChat to work again, using GPT-4 queries. We should use a different channel for experiments, so not to overwhelm this channel. 
 
-A question generates a search  locally, tuned to the text in the local database, to find the most relevant text from CSI or Sustainability that is in the local database.  Relevance is computed by doing one pass through GPT-4, or through another LLM running locally, that uses the local vector database that was built by ingesting and  classifying the local text. 
+DR  briefly outlined  progress in building a new structure for CSIChat.  It's a *hybrid* model, using vector embedding for queries and context, and LLM for long query response. Iterate, using LLM model response to tune the query, search more relevant document embeddings.
+
+A question generates a search locally, tuned to the text in the local database, to find the most relevant text from CSI or Sustainability that is in the local database.  Relevance is computed by doing one pass through GPT-4, or through another LLM running locally, that uses the local vector database that was built by ingesting and  classifying the local text. 
 
 Then, this *relevant* text goes into the GPT-4 playground context space, and the  GPT-4 query  runs,  this time using this most relevant text as context.  The entire query  and context goes to GPT-4 for a much richer response than what  could be built from just the local CSI or Sustainability text.  And a great side effect is that the query answer now can be directly linked back to the original CSI or Sustainability text that formed context for the query. As we explore the validity of the responses, this helps a lot.
 

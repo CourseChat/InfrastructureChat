@@ -4,12 +4,14 @@ title: Session.12-July5-Wed-aft
 nav_exclude: true
 ---
 
-SRG-Session.12
-12             | 2023-07-05 Wed aft     
+# Session.12
+- 2023-07-05 Wed aft     
 
 ## Topics
-- image recognition of EBMUD document scans
 - 
+image recognition of EBMUD document scans
+- Github Pages
+- Build Websites
 
 ## Video
 

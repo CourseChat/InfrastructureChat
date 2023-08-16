@@ -5,10 +5,6 @@ description: Quick Tour of AI
     
 ---
 
-
-
-
-
 # Interactive sessions
 - building Infrastructure Chat: vector embedding of text, PDF's, .csv files
 
@@ -52,11 +48,17 @@ description: Quick Tour of AI
 - [Session 12](lecture/ses12-July5-Wed-aft-DR.md)
     - Everyone build their own web site.
     - How to get a domain name, how to create subdomains, how to deploy your project so the world can see it
-- [Session 13](lecture/ses13-July6-Thursday-aft-DR.md)
+- [Session 13](/InfrastructureChat/lecture/ses13jy6tham)
 - relevant?
+
+- [Session 14](/InfrastructureChat/lecture/ses14-July6-Thursday-aft-DR)
+    - July 6- Thursday afternoon: Video
+    - Build CSI website; build standalone solar-powered CSI website server; deploy new website using CloudServe, new domain;
+    -Video[Video 1](https://drive.google.com/drive/folders/1aG3Q4LrLy7N_SHzOOvQkeXGgjNCmtQIj)
 
 - [Session 22](lecture/ses22-July18-Tuesaft.md)
     - missing video
+    - discussion of **hybrid** model of embedding, refining, querying with refined search
 
 
 
