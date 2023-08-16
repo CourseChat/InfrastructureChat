@@ -60,6 +60,8 @@ description: Quick Tour of AI
     - missing video
     - discussion of **hybrid** model of embedding, refining, querying with refined search
 
+- [Special session: 2 AI scientists discuss state-of-the-art]
+
 
 
 
