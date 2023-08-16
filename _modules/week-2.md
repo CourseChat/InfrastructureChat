@@ -9,7 +9,6 @@ Jun 27
 : **Session 5**{: .label .label-lecture} [LBL session](/InfrastructureChat/lecture/ses5-June27-Tu-morn-LBL)
   : [1.1](#)
 : **Section**{: .label .label-purple } [Lunch session](../lecture/ses10ju29thpm)
-  : [Solution](#)
 : **Session 6**{: .label .label-lecture } [Afternoon](/InfrastructureChat/lecture/ses6-June27-Tu-aft-DT)
   : [1.1](#)
 
