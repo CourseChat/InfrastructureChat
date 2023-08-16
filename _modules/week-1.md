@@ -8,7 +8,7 @@ Jun 21
 : **Lab 1**{: .label .label-lab } [Digital Twin Resources](https://github.com/dbrauchwerk/SRG_S23/wiki/Digital-Twins){:target="_blank"} (skim over weekend)
 
 Jun 21
-: **Session 2**{: .label .label-yellow } [GPT-4 For You;Explore with paid token](/InfrastructureChat/lecture/ses2-ju21wpm) 
+: **Session 2**{: .label .label-yellow } [GPT-4 For You;Explore Augmented Query](/InfrastructureChat/lecture/ses2-ju21wpm) 
     : [Pandas 1](https://ds100.org/course-notes-su23/pandas_1/pandas_1.html)
 
 : **Discussion 1**{: .label .label-disc } [Potential Implementation Projects]
