@@ -49,7 +49,6 @@ description: Quick Tour of AI
     - Everyone build their own web site.
     - How to get a domain name, how to create subdomains, how to deploy your project so the world can see it
 - [Session 13](/InfrastructureChat/lecture/ses13jy6tham)
-- relevant?
 
 - [Session 14](/InfrastructureChat/lecture/ses14-July6-Thursday-aft-DR)
     - July 6- Thursday afternoon: Video
