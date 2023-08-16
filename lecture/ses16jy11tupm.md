@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Session.16
+title: Session.16-Jy11-Tu-pm
 nav_exclude: true
 ---
 July 11, Tuesday afternoon
