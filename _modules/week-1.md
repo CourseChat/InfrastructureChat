@@ -23,5 +23,5 @@ Jun 22
 Jun 22
 : **Session 4**{: .label .label-yellow } [LLaMA open source;Ingest text](/InfrastructureChat/lecture/ses4ju22thpm)
     : [Pandas 3](https://ds100.org/course-notes-su23/pandas_2/pandas_2.html)
-: **Lab 4**{: .label .label-lab }[Import text; Verification](https://github.com/dbrauchwerk/SRG_S23/wiki/Verification)
+: **Lab 4**{: .label .label-lab }[Ingest text;Pokemon; Verification](https://github.com/dbrauchwerk/SRG_S23/wiki/Verification)
 : **Lab 5**{: .label .label-lab }[USB Sustainability Data; Digital Twin](https://github.com/dbrauchwerk/SRG_S23/wiki/Spreadsheets)

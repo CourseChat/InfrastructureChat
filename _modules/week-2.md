@@ -18,7 +18,7 @@ Jun 28
   : [1.1](#)
 : **Session 8**{: .label .label-lecture } [Project meet](/InfrastructureChat/lecture/ses8-Ju28wpmS)
   : [1.1](#)
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+: **Lab**{: .label .label-purple } [](#)
 
 Jun 29 
 : **Session 9-SPOT robot demo**{: .label .label-lecture } [SPOT runs](/InfrastructureChat/lecture/ses9-Ju29Tham)
@@ -29,4 +29,3 @@ Jun 29
 Jun 30
 : [LangChain]()
   : [2.1](#)
-: **HW 1 due**{: .label .label-red }
