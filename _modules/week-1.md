@@ -12,8 +12,9 @@ Jun 21
 Jun 21
 : **Session 2**{: .label .label-yellow } [GPT-4 For You;Explore with paid token](/InfrastructureChat/lecture/ses2-ju21wpm) 
     : [Pandas 1](https://ds100.org/course-notes-su23/pandas_1/pandas_1.html)
-: **Discussion 1**{: .label .label-disc } [Math Prerequisites](https://drive.google.com/file/d/1vOVxBK1Lr1tQ2V_V2aYqdTAXIllRTicD/view?usp=sharing)
-    : [Solution](https://drive.google.com/file/d/17WuF16jEFQyl8mRv0il7MjSyQ9RDDgPN/view?usp=sharing)
+
+: **Discussion 1**{: .label .label-disc } [Large Language Models](https://github.com/dbrauchwerk/SRG_S23/wiki/Digital-Twins){:target="_blank"} (skim over weekend)
+
 
 Jun 22
 : **Session 3**{: .label .label-yellow } [OpenAI;Open Source](/InfrastructureChat/lecture/ses3-ju22tham)
