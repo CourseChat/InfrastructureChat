@@ -13,15 +13,18 @@ Jun 21
 : **Session 2**{: .label .label-yellow } [GPT-4 For You;Explore with paid token](/InfrastructureChat/lecture/ses2-ju21wpm) 
     : [Pandas 1](https://ds100.org/course-notes-su23/pandas_1/pandas_1.html)
 
-: **Discussion 1**{: .label .label-disc } [Large Language Models](https://github.com/dbrauchwerk/SRG_S23/wiki/Digital-Twins){:target="_blank"} (skim over weekend)
+: **Discussion 1**{: .label .label-disc } 
+: **Lab 2**{: .label .label-lab }[Large Language Models](https://github.com/dbrauchwerk/SRG_S23/wiki/Digital-Twins){:target="_blank"} (skim over weekend)
 
 
 Jun 22
 : **Session 3**{: .label .label-yellow } [OpenAI;Open Source](/InfrastructureChat/lecture/ses3-ju22tham)
     : [Pandas 2](https://ds100.org/course-notes-su23/pandas_2/pandas_2.html)
-: **Lab 2**{: .label .label-lab } [**CoLab notebooks**](https://github.com/dbrauchwerk/SRG_S23/wiki/Colab-Notebooks)
+: **Lab 3**{: .label .label-lab } [**CoLab notebooks**](https://github.com/dbrauchwerk/SRG_S23/wiki/Colab-Notebooks)
 {:target="_blank"} (skim over weekend)
 
 Jun 22
 : **Session 4**{: .label .label-yellow } [LLaMA open source;Ingest text](/InfrastructureChat/lecture/ses4ju22thpm)
     : [Pandas 3](https://ds100.org/course-notes-su23/pandas_2/pandas_2.html)
+: **Lab 4**{: .label .label-lab }[Import text; Verification](https://github.com/dbrauchwerk/SRG_S23/wiki/Verification)
+: **Lab 5**{: .label .label-lab }[USB Sustainability Data; Digital Twin](https://github.com/dbrauchwerk/SRG_S23/wiki/Spreadsheets)
