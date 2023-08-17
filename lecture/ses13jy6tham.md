@@ -28,7 +28,7 @@ nav_exclude: true
 
 
 
- # Session.13| 2023-07-06 Thu morn
+# Session.13| 2023-07-06 Thu morn
 
 - Work on projects
 - Discussion of Digital Twin, tools
@@ -36,14 +36,14 @@ nav_exclude: true
 ## Video
  - [**Session 13 Video**](https://drive.google.com/drive/folders/1-4dj8_bvGziI1x4uvhyaIBCaRf5wGKS5). 3:12:00
 
- ## Full Text
+## Full Text
  - [**Session 13--Full Text Transcript](https://drive.google.com/drive/folders/1-4KNeaE-J3dYYsqPdhGZXLS-wHLlDvdI)
 
- ## Slides
+## Slides
 - to come
- ## Colab Jupyter Notebooks
+## Colab Jupyter Notebooks
 
- ## Resources
+## Resources
  - [Cloudflare](https://www.cloudflare.com/
  )
 
