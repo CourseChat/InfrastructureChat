@@ -19,3 +19,10 @@ nav_exclude: true
 - ESRI
 - Sympheny
 - Cesium
+
+## UCB Data Repository for DT data
+
+[**GoogleDrive Folder of DT data**](https://drive.google.com/drive/folders/1carXxmQBq0kxaLet55EqiqOsjShWtBS8)
+
+Here are links to data sources for Project 4; Digital Twin; P4 gdrive - https://drive.google.com/drive/folders/1carXxmQBq0kxaLet55EqiqOsjShWtBS8?usp=drive_link
+

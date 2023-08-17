@@ -20,3 +20,8 @@ Jump to:
 
 ## Supplementary Course Notes
 Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes-su23/). 
+
+
+## Colab sites
+
+Here is a Colab JN to capture transcripts of the Zoom sessions for class: GDRIVE VIDEO WHISPER 2 Transcript [Whisper to text](https://colab.research.google.com/github/AndrewMayneProjects/Whisper/blob/main/WhisperVideoDrive.ipynb#scrollTo=PomTPiCR5ihc)
