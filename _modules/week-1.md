@@ -25,3 +25,7 @@ Jun 22
     : [Pandas 3](https://ds100.org/course-notes-su23/pandas_2/pandas_2.html)
 : **Lab 4**{: .label .label-lab }[Ingest text;Pokemon; Verification](https://github.com/dbrauchwerk/SRG_S23/wiki/Verification)
 : **Lab 5**{: .label .label-lab }[USB Sustainability Data; Digital Twin](https://github.com/dbrauchwerk/SRG_S23/wiki/Spreadsheets)
+
+: **Lab 1**{: .label .label-lab }[Digital Twin Resources](https://github.com/dbrauchwerk/SRG_S23/wiki/Digital-Twins){:target="_blank"} (skim over weekend)
+: **Lab 1**{: .label .label-lab } [Digital Twin Resources](https://github.com/dbrauchwerk/SRG_S23/wiki/Digital-Twins) {:target="_blank"} (skim over weekend)
+: **Lab 1**{: .label .label-lab } [Digital Twin Resources](https://github.com/dbrauchwerk/SRG_S23/wiki/Digital-Twins) (skim over weekend)
