@@ -4,6 +4,7 @@ title: Session.13-July6-Thu-am
 nav_exclude: true
 ---
 # Session 13: Rebuilding a PC to become a CSI Webserver
+### Long session: divided in two parts
 ## Take old Microsoft PC's in David 305, delete all Microsoft code, install Linux
 ### Ultimate failure, due to ancient PC, need for a unique IP address for each PC to connect to UCB interior network
 ## Build complete server using single-board Raspberry Pi
@@ -39,7 +40,7 @@ nav_exclude: true
  - [**Session 13--Full Text Transcript](https://drive.google.com/drive/folders/1-4KNeaE-J3dYYsqPdhGZXLS-wHLlDvdI)
 
  ## Slides
-
+- to come
  ## Colab Jupyter Notebooks
 
  ## Resources
