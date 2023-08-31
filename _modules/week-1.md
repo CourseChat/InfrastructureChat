@@ -5,7 +5,7 @@ title: Week One
 Jun 21
 : **Session 1**{: .label .label-yellow } [AI-ML-CivEngineering Tour](/InfrastructureChat/lecture/ses01-ju21wam)
     : [Questioning Data](https://ds100.org/course-notes-su23/intro_lec/introduction.html)
-: **Lab 1**{: .label .label-lab } [Digital Twin Resources](https://github.com/dbrauchwerk/SRG_S23/wiki/Digital-Twins){:target="_blank"} (skim over weekend)
+: **Lab 1**{: .label .label-lab } [Digital Twin Resources](https://github.com/CourseChat/SRG_S23/wiki/Digital-Twins){:target="_blank"} (skim over weekend)
 
 Jun 21
 : **Session 2**{: .label .label-yellow } [GPT-4 For You;Explore Augmented Query](/InfrastructureChat/lecture/ses2-ju21wpm) 
