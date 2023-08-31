@@ -1,7 +1,8 @@
 ---
 title: Week One
 ---
-
+Fundamental Reading on the Future of Computing, Generative AI, and Science and Engineering
+: [Dr. Kathy Yelick](https://nap.nationalacademies.org/read/26916)
 Jun 21
 : **Session 1**{: .label .label-yellow } [AI-ML-CivEngineering Tour](/InfrastructureChat/lecture/ses01-ju21wam)
     : [Questioning Data](https://ds100.org/course-notes-su23/intro_lec/introduction.html)
