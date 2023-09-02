@@ -3,6 +3,8 @@ title: Week One
 ---
 Fundamental Reading on the Future of Computing, Generative AI, and Science and Engineering
 : [Dr. Kathy Yelick](https://nap.nationalacademies.org/read/26916)
+Dr. Yelick, in the context of supercomputing for nuclear security, states that our resources are now out-dated by the new AI computing demands, must be redesigned and rethought,
+requiring major new investment. See --- for specific references by Dr. Yelick, Dr. David Culler, and Dr. David Patterson of UCB.
 Jun 21
 : **Session 1**{: .label .label-yellow } [AI-ML-CivEngineering Tour](/InfrastructureChat/lecture/ses01-ju21wam)
     : [Questioning Data](https://ds100.org/course-notes-su23/intro_lec/introduction.html)
