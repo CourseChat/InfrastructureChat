@@ -19,7 +19,7 @@ description: Past exams and other relevant material to aid you in the course.
 Learn more about references made in lectures. 
 
 ## Guide to Dr. Yelick National Academy of Science's Report on Exascale Computing.
-[Annotated Guide to Impact of AI Computing on National Security]()
+[Annotated Guide to Impact of AI Computing on National Security](InfrastructureChat/assets/resources/Charting A Path)
 
 ## Resources from the Slack channel created for [**PipeChat](https://app.slack.com/client/T04SR2E5R0S/C04TENERR32)
 - Pipechat lists, by channel
