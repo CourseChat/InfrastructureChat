@@ -14,6 +14,7 @@ nav_exclude: true
 ### Run anywhere in the world, link to Skylink, serve CSI or project data from anywhere to the world
 ## Publish the CSI website through Cloudserve
 ## Discussion of Zero Trust security--mandatory replacement for EBMUD, PG&E firewall security
+- [Link to Zero Trust Architecture NIST definition:](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
 ### Very few utilities have yet implemented this, for mistaken idea that it is too complicated
 ### Serious implications for critical infrastructure
 ## We will implement Zero Trust, and use Cloudflare to defeat national or regime firewalls
