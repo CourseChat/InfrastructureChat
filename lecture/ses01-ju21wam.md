@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 # Session 1: Demonstrate how to use GPT-4 to build Augmented Retrieval 
 - Note: use the website searchbox to find a specific topic, e.g., "digital twin" or "NVIDIA gpu"
-## Begin by watching the class video:
+## Begin by watching the class video: [Video streaming](https://drive.google.com/file/d/1AaQGkQgyZO8xgIFy-BdAUNhi2XdWF83r/view?usp=sharing)
 ## An interaction between Professor Kenichi Soga, Dave Rauchwerk,and GPT-4, asking and answering civil engineering questions: 45 minutes
 - [Video streaming](https://drive.google.com/file/d/1AaQGkQgyZO8xgIFy-BdAUNhi2XdWF83r/view?usp=sharing)
 
